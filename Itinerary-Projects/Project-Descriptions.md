@@ -6,8 +6,8 @@ and all data known has been entered.  The information can be used for
 visualizations, data experiments, or academic reference purposes.
 
 For the Projects in Process, some or all of the data has not been entered, 
-checked, or added to the Gazetteer.  Within the folder for that project will 
-be a To-Do list with the state of the project and where work can best be
+checked, or added to the Gazetteer.  In the README for that project there  
+is a To-Do list with the state of the project and where work can best be
 accomplished to move the project forward.  If a Project has not been started,
 the "Tool-Box" folder contains instructions for how to begin compiling the 
 itinerary from either primary or secondary sources.  The Itinerary folder
