@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 """
+-*- coding: utf-8 -*-
+
 geonames_lookup_class.py
 
 This is a modified websearch for geonames id codes and locations based in
