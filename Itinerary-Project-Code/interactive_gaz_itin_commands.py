@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 """
+-*- coding: utf-8 -*-
+
 interactive_gaz_itin_commands.py
 
 This is a set of commands to run the gazetteer_class and itinerary_class
