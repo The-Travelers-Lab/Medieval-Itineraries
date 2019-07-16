@@ -1,0 +1,37 @@
+Basic template for Itinerary and Gazetteer Function List.
+For each of the following functions, enter yes or no
+or the appropriate filename or other information.
+
+Gazetteer Functions:
+process a gazetteer: <yes or no>
+main gazetteer filename: <filename>
+geonames login id: <id_name>
+compare gazetteers: <yes or no>
+reference gazetteer filename: <filename>
+save output gazetteer: <save, 'both', or 'merge'>
+lookup geonames ids: <yes or no>
+secondary geonames lookup: <yes or no>
+populate itinerary ids: <yes or no>
+itinerary id code: <id_code>
+itinerary file for reference: <filename>
+gazetteer errors to file: <yes or no>
+filename for gazetteer errors: <filename>
+save final gazetteer as: <'same' or filename>
+	
+Itinerary Functions:
+process an itinerary: <yes or no>
+main itinerary filename: <filename>
+itinerary has latitude and longitude:  <yes or no>
+lookup names in gazetteer: <yes or no>
+lookup attributes in gazetteer: <yes or no>
+lookup gazetteer filename: <filename>
+attribute list to lookup: <item,item>
+format dates in single column: <yes or no>
+output itinerary as gazetteer: <yes or no>
+gazetteer output filename: <filename>
+output itinerary as trips frame: <yes or no>
+keep all date columns in trips: <yes or no>
+trips dataframe output filename: <filename>
+itinerary errors to file: <yes or no>
+filename for itinerary errors: <filename>
+save final itinerary as: <'same' or filename>
