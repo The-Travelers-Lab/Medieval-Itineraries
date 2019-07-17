@@ -1,0 +1,43 @@
+CERTAINTY (a rubric...oh my):
+
+The following chart is for the Gazateer only - these are based on our certainty of the modern town and its continuing location.  If there is a problem with the itinerary (the travel distance seems impossible or there are two different possible locations), this should be labelled in the itinerary but does not influence the “certainty” of the town location. [See Itinerary Issue Codes listed below]
+
+Number,Description,Examples from Jaume II
+0,We have no idea where the town is or might be.,
+1,There is some inkling of where the town is based on surrounding information but it is almost a pure guess and we only know within a fairly wide region.
+Fortunately, no examples yet!,
+2,Based on some source, we have a vicinity of where the town is, possibly between other towns or near a landmark, but the actual site remains unknown.  The marker is probably within several miles of the correct location.  This is also a good designation for locations such as “at sea” but between two other identifiable towns.
+Novella
+3
+For whatever reason, the town does not accord perfectly with a modern town.  Perhaps the name has changed significantly or there is more than one possible town, but only a couple of options.  This is also a good specifier for when the itinerary notes a location that is vague (such as “outside” or “near” a town that we feel confident about identifying). 
+Cabo Orlando (Cape Orlando in Sicily) (This happened…)
+4
+There is a location that fits the bill and perhaps has a moderately changed or extended name.  There are no other major contendors, but there remains a bit of doubt as to the certainty of the location stated in the itinerary with the town specified by the pin.  Use this for sieges of a city when the king is not explicitly in the town.
+Castillo San Marco (identified as San Marco d’Alunzio)
+5
+The town or city is still there, named the same thing (or with clear evidence of a changed name), and the pin is entirely assured to be in the correct location.
+Barcelona, Valencia, Palma de Mallorca, (probably the majority of the locations)
+6
+Not only do we have the exact town, but we know the exact building the king was inside of.  Normally this will be a monastery or a castle.
+Monasterio de Santes Creus
+
+
+Itinerary Issue Codes
+
+These should be entered on every town to which they apply and may appear multiple times 
+
+Code
+Description
+Examples
+1
+The name does not exactly match the modern name, but is either very close or the name change is relatively well known.  The location also works well in the listed Itinerary and does not cause other problems.
+Montfalco (Montfalco Murallat), Vañón (Bañón)
+
+
+2
+There are two locations of the same name and we have picked on, but the other location is also plausible.
+Xert versus Chert
+3
+The distance to this town is impossibly long.
+Guadalajara to Tauste or Guadalajara to Gurrea de Gállego
+
