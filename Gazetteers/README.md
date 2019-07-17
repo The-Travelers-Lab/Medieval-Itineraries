@@ -11,9 +11,8 @@ in the Itinerary-Project-Code folder (or contact one of us with questions.)
 
 # To Do List:
 ## Crown of Aragon Gazetteer
-* Check secondary guesses from Geonames lookup
 * Enter modified ID codes for non-Geonames locations
-* Complete Itinerary Code References for all entries
+* Enter Itinerary Code References for any itinerary entries
 
 ## Episcopal Travel Gazetteer
-* Not yet compiled...
+* Begin Compilation...
