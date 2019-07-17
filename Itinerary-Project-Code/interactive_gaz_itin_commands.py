@@ -66,7 +66,7 @@ Command_Dict = {'process a gazetteer': 'run_gaz',
 
 def main():
     use_file = True
-    data_file_name = 'gazetteer_and_itinerary_functions_list1.txt'
+    data_file_name = 'gazetteer_and_itinerary_functions_list.txt'
     if use_file:
         data_from_file(data_file_name)
 
