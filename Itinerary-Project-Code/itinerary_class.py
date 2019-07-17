@@ -273,7 +273,7 @@ class Itinerary:
         coordinates, the function prints a warning, but does not throw an
         error.  Returns a pandas DataFrame.
         """
-        self.verify_cols()
+        self._verify_cols()
         if not self.no_flag:
             print("This operation has failed")
             return None
