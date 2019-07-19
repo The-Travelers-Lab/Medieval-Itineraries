@@ -327,7 +327,7 @@ Figueruelas,,,3122440,Spain,41.7658569,-1.1748999,y,5,,Figueruelas,0.07439,,,,
 Fiscal,,,3122418,Spain,42.4956027,-0.1201874,y,5,,Fiscal,0.0615,,,,
 Flix,,,3122407,Spain,41.2281062,0.5435091,y,5,,Flix,0.62374,,,,
 Foios,,,2517675,Spain,39.5363435,-0.3524784,y,5,,Foios,0.39635,,,,
-Font de Pontlerion,,,***,Spain,40.7705762,0.5152117,AFL,1,"Check Doc: ACA, r. 147, f. 83; text and editor of Jaume II Itinerary places it due south of Tortosa on the opposite side of the Ebro river.  ***This could simply be a different spelling of Font de Perilionis - El Perelló!***Check",,,,Arrabal de la Leche,3129442,2.74487
+Font de Pontlerion,,,***,Spain,40.7705762,0.5152117,R,1,"Check Doc: ACA, r. 147, f. 83; text and editor of Jaume II Itinerary places it due south of Tortosa on the opposite side of the Ebro river.  ***This could simply be a different spelling of Font de Perilionis - El Perelló!***Check",,,,Arrabal de la Leche,3129442,2.74487
 Fonts de Sant Pere,,,***,Spain,40.6161863,0.5482388,y,4,"This river originates from a set of springs known as the ""Fonts de Sant Pere"" which are apparently attested to in multiple centuries - it is difficult to know if it is the exact spot but it is surely fairly close according to this remarkably well cited tourist website: http://www.sensecorrer.cat/fonts_st_pere.html",,,,Sant Carles de la Ràpita,3110821,4.38041
 Forcall,,,3122238,Spain,40.645299,-0.2004374,y,5,,Forcall,0.04602,,,,
 Formiguères,,,3017714,France,42.61396,2.102634,y,5,,Formiguères,0.04372,,,,
@@ -351,7 +351,7 @@ Gimenells,,,6324665,Spain,41.6520595,0.3903892,y,5,,Gimenells,0.07877,,,,
 Ginestar,,,3121411,Spain,41.0417854,0.6334662,y,5,,Ginestar,0.04827,,,,
 Girona,"Gerona, Gerunde",Gerunda,3121456,Spain,41.9794005,2.8214264,y,5,,Girona,0.50456,,,,
 Girona,,,3121456,Spain,41.9871157,2.8246035,y,5,,Girona,0.44544,,,,
-Glanum,,,***,France,43.4385641,4.7465689,AFL,2,"This is near the archeological site of Glanum; However, the text makes clear the king is at sea and suggests the island of Galiano which provides nothing.  The pin is near the coast south of the ancient town of Glanum (geonames code 8224206).",,,,,,
+Glanum,,,***,France,43.4385641,4.7465689,R,2,"This is near the archeological site of Glanum; However, the text makes clear the king is at sea and suggests the island of Galiano which provides nothing.  The pin is near the coast south of the ancient town of Glanum (geonames code 8224206).",,,,,,
 Golfo de Patti,,,8224206,Italy,38.1834902,15.0593508,y,4,,Golfo di Patti,2.789,,,,
 Granollers,,,3121145,Spain,41.6061927,2.2870889,y,5,,Granollers,0.20413,,,,
 Granyena de Segarra,,,3121160,Spain,41.6237612,1.2463911,y,5,,Granyena de Segarra,0.84341,,,,
@@ -372,7 +372,7 @@ Hospital de Villafranca,,,***,Spain,41.3448025,1.6972238,y,6,the antic hospital 
 Hospital del Coll de Balaguer,Hospital d'en Pere; Hospital del Infant Pere,,3120620,Spain,40.9918788,0.9220736,y,6,"This is now known as the Hospital del Coll de Balaguer: https://ca.wikipedia.org/wiki/Hospital_del_Coll_de_Balaguer  It turns out it was founded by Prince Pere in the early 14th century, but was renamed a few times.",l'Hospitalet de l'Infant,0.16827,,,,
 Hospitalet de Llobregat,,,3120619,Spain,41.3608257,2.0972708,y,5,,L'Hospitalet de Llobregat,0.28217,,,,
 Hostalric,,,3120616,Spain,41.7433285,2.6276966,y,5,,Hostalric,0.87687,,,,
-Huerta,,,***,Spain,41.1204876,0.5330208,AFL,1,unknown location between Gandesa and Asco - Jaume II,,,,Coll del Coso,3124405,2.65778
+Huerta,,,***,Spain,41.1204876,0.5330208,R,1,unknown location between Gandesa and Asco - Jaume II,,,,Coll del Coso,3124405,2.65778
 Huerta de Alhama,,,***,Spain,37.8404763,-1.4087818,y,4,,,,,Alhama de Murcia,2521992,1.85085
 Huerta de Almoradí,,,***,Spain,38.0984863,-0.7886254,y,4,,,,,Almoradí,2521855,1.1802
 Huerta de Murica ante el Castillo de Monteagudo,,,***,Spain,38.0208703,-1.1010424,y,4,,,,,Monteagudo,2513652,0.36862
@@ -516,7 +516,7 @@ Montanyana,,,3116427,Spain,42.1614224,0.6782169,y,5,,Montanyana,0.06671,,,,
 Montblanc,,,3116411,Spain,41.3744399,1.1615674,y,5,,Montblanc,0.21307,,,,
 Montcada i Reixac,,,3116527,Spain,41.4904225,2.1866067,y,5,,Montcada i Reixac,0.83346,,,,
 Monteagudo de las Vicarías,Ariza-Monteagudo,,3116378,Spain,41.3645131,-2.1708139,y,5,"This is almost always mentioned in conjunction with other castles and defenses in Ariza, so this seems the most likely candidate.",Monteagudo de las Vicarías,0.10856,,,,
-Monterrubio,,,***,Spain,39.1847818,-0.3796687,AFL,1,"This place doesn't seem to exist near Valencia (on the way to Gandia). The locations surrounding it in the orginial itinerary seem kind of jumbled and don't make sense, distance wise. Monrubi or Monroyo are both places near-ish Valencia, but not near enough. There may be some mention in Caminos de Peregrinos del Aragon - Jaume II",,,,Benicull de Xúquer,2521090,0.35512
+Monterrubio,,,***,Spain,39.1847818,-0.3796687,R,1,"This place doesn't seem to exist near Valencia (on the way to Gandia). The locations surrounding it in the orginial itinerary seem kind of jumbled and don't make sense, distance wise. Monrubi or Monroyo are both places near-ish Valencia, but not near enough. There may be some mention in Caminos de Peregrinos del Aragon - Jaume II",,,,Benicull de Xúquer,2521090,0.35512
 Montfalco Asedio al Castillo,,,***,Spain,41.6896329,1.3364001,y,4,,,,,Les Oluges,3115090,1.17941
 Montfalco Murallat,Montfalco,,GNA***,Spain,41.6887191,1.3396783,y,5,,,,to_add,Les Oluges,3115090,1.35972
 Montgai,,,3116473,Spain,41.7997352,0.9607869,y,5,,Montgai,0.48955,,,,
@@ -601,8 +601,8 @@ Piera,,,3113576,Spain,41.5160827,1.7416799,y,5,,Piera,1.0268,,,,
 Pina de Ebro,,,3113549,Spain,41.4888263,-0.5269639,y,5,,Pina de Ebro,0.35629,,,,
 Pinseque,,,3113420,Spain,41.7373609,-1.0999358,y,5,,Pinseque,0.09586,,,,
 Playa de Sos,,,***,France,42.503524,3.127799,y,2,"The current location is a cove between Banyuls and Cotlliure that seems like a fitting place to stop, although the exact location is completely unknown.",,,,Paulilles,6691279,0.51863
-Pobla de Arelles,,,***,Spain,39.7973144,-0.2201488,AFL,1,Halfway between Valencia and Borriol - placed very near Pobla de Aylles as these could be the same location.,,,,Chilches,2519503,3.25689
-Pobla de Aylles,,,***,Spain,39.8059331,-0.2151636,AFL,1,Halway between Castellon and Valencia - placed right near pobla de Arelles as they could be alternate spellings of the same location.,,,,Chilches,2519503,3.25689
+Pobla de Arelles,,,***,Spain,39.7973144,-0.2201488,R,1,Halfway between Valencia and Borriol - placed very near Pobla de Aylles as these could be the same location.,,,,Chilches,2519503,3.25689
+Pobla de Aylles,,,***,Spain,39.8059331,-0.2151636,R,1,Halway between Castellon and Valencia - placed right near pobla de Arelles as they could be alternate spellings of the same location.,,,,Chilches,2519503,3.25689
 Poblet,,,9883558,Spain,41.3807334,1.0835227,y,5,,Poblet,0.1639,,,,
 Porquerisses,,,GNA***,Spain,41.6253147,1.4594804,y,5,,,,to_add,Santa María del Camí,3109789,1.30363
 Port de Cirellat,,,***,France,42.6121103,8.7835038,y,1,No idea - it is probably on Corsica and Girona Llagostera puts it there in his map - however there is no evidence for the choice and no information available.,,,,Marine de Santâ€™Ambrogio,12025749,3.61756
@@ -629,8 +629,8 @@ Puerto de San Felice de Circeo,,,3168393,Italy,41.2292425,13.095898,y,4,actually
 Puerto de San Stefano Orbetello,,,3170071,Italy,42.4374939,11.1149496,y,5,"There is a chance this is the town of Orbetello, which is right nearby to San Stefano, but closer to the mainland.  Orbetello is older, but does not have a port in the same way, so we stuch with Santo Stefano",Porto Santo Stefano,0.09229,,,,
 Puerto de Siracusa,,,11838376,Italy,37.0605179,15.2912072,y,5,,Porto Siracusa,0.816,,,,
 Puerto Genovés,,,2517251,Spain,36.7659306,-2.1095169,y,3,"The name of the beach ""playa de los genoveses"" is purportedly a medieval name based on the landing site of a genovese fleet invading then Muslim Almeria.  The site works for a stopping point for Jaime's fleet on the way to Almeria from Alicante, but the exact location is speculative. - the text states this is 4 leagues south of Puerto Aguilas.",Puerto Genovés,1.885,,,,
-Puig de Bavers,,,***,Spain,41.7802249,-1.4958949,AFL,1,,,,,Fuendejalón,3121965,2.95022
-Puig de Ruiber,,,***,Spain,41.3585424,1.5321308,AFL,1,,,,,El Pla de Manlleu,7733050,2.82099
+Puig de Bavers,,,***,Spain,41.7802249,-1.4958949,R,1,,,,,Fuendejalón,3121965,2.95022
+Puig de Ruiber,,,***,Spain,41.3585424,1.5321308,R,1,,,,,El Pla de Manlleu,7733050,2.82099
 Puigcerdà,,,3112680,Spain,42.4335392,1.9291154,y,5,,Puigcerdà,0.22883,,,,
 Purroy,,,3112624,Spain,41.4744128,-1.5423518,y,5,,Purroy,0.05947,,,,
 Querol,,,3112582,Spain,41.4237177,1.3978848,y,5,,Querol,0.12348,,,,
@@ -669,7 +669,7 @@ Salses-le-Château,,,2976489,France,42.833829,2.919303,y,5,,Salses-le-Château,0
 Salvatierra de Esca,,,3110966,Spain,42.6683868,-1.004179,y,5,,Salvatierra de Esca,0.18731,,,,
 Samper de Calanda,,,3110932,Spain,41.1901169,-0.3899502,y,5,,Samper de Calanda,0.12847,,,,
 San Esteban de Litera,,,3110675,Spain,41.9051717,0.3260912,y,5,,San Esteban de Litera (Sant Esteve de Llitera),0.08398,,,,
-San Esteban de Rueda,,,***,Spain,41.4229991,-1.6729788,AFL,1,,,,,Ermita de Santa Lucía,11919860,0.73203
+San Esteban de Rueda,,,***,Spain,41.4229991,-1.6729788,R,1,,,,,Ermita de Santa Lucía,11919860,0.73203
 San Feliú de Guixols,,,3110643,Spain,41.7825973,3.0328234,y,5,,Sant Feliu de Guíxols,0.09208,,,,
 San Juan de la Peña ,,,11862165,Spain,42.5078408,-0.6668454,y,5,"Same location as the monastery- it looks like it has always been a monastery, not a spearate town, so I believe the itinerary (Jaume II) was referring to this place",Monasterio Nuevo de San Juan de la Peña,0,,,,
 San Mateo,,,3110310,Spain,40.4654987,0.1787657,y,5,,San Mateo,0.02882,,,,
@@ -696,7 +696,7 @@ Sant Sadurní d'Anoia,,,3110064,Spain,41.4247986,1.7845135,y,5,,Sant Sadurní d'
 Sant Vicenç dels Horts,,,3109442,Spain,41.3888363,2.002836,y,5,,Sant Vicenç dels Horts,0.58849,,,,
 Santa Coloma de Queralt,,,3109979,Spain,41.5322215,1.3829246,y,5,,Santa Coloma de Queralt,0.12811,,,,
 Santa Cruz de la Serós,,,3109929,Spain,42.522933,-0.6740433,y,5,,Santa Cruz de la Serós,0.09408,,,,
-Santa María de Arguines,,,***,Spain,39.7427404,-0.3537492,AFL,3,This document states that the location of Arguines - sold to the Mercedarians and made into a convent - is near Torres Torres: https://books.google.com/books?id=6F0NAQAAIAAJ&pg=PA308,,,,Torres-Torres,2510258,1.09279
+Santa María de Arguines,,,***,Spain,39.7427404,-0.3537492,R,3,This document states that the location of Arguines - sold to the Mercedarians and made into a convent - is near Torres Torres: https://books.google.com/books?id=6F0NAQAAIAAJ&pg=PA308,,,,Torres-Torres,2510258,1.09279
 Santa Maria de Gerri de la Sal,,,GNA***,Spain,42.3221895,1.0665827,y,6,,,,to_add,,,
 Santa Maria de la Grip,,,***,Italy,38.3976351,15.8603724,Ed,1,Near Nicotera or in Calabria...one day away...sails to Stromboli.  Could also be called Santa Maria della Grotta.,,,,Taureana,2522972,0.60929
 Santa Pola,Cabo Al-Ajub Santa Pola,,2511102,Spain,38.1965614,-0.5612438,y,5,,Santa Pola,0.67556,,,,
