@@ -15,7 +15,7 @@ Francisco de Asís Veas Arteseros, Itinerario de Enrique III, EDITUM, 200
 
 ## Unchecked References ##
 
-DRRE, Susana A della, ''Noticias de viajes en la España cristiana medieval", 
+TORRE, Susana A della, ''Noticias de viajes en la España cristiana medieval", 
     Cuadernos de Historia de Espa- ña, xn (1949), pp. 70 - 104. 
     
 RUMEU DE ARMAS, A: Itinerario de los Reyes Cat6licos. /474 -/5/6, Madrid, 1974.
