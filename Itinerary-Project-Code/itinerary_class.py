@@ -104,7 +104,8 @@ Created on Tue May 21 20:27:31 2019
 
 import pandas as pd
 import datetime as dt
-from pyproj import Geod
+from numpy import cos, sin, arcsin, sqrt, radians
+# from pyproj import Geod
 import Levenshtein as lev
 
 class Itinerary:
@@ -414,19 +415,28 @@ class Itinerary:
 
     def _distance_calc(self, trip_row):
         """
-        uses a geo-calculator from pyproj to create a great circle distance
-        given a series, array, or row of a dataframe and returns the distance.
-        The inputs from the series need to include depart_lat, depart_long,
-        arrive_lat, and arrive_long.  Distance is returned in kilometers
-
-        There's another calculation of the Haversine this way:
-            https://stackoverflow.com/questions/25767596/vectorised-haversine-formula-with-a-pandas-dataframe/25767765#25767765
-        """
+        The old version uses a geo-calculator from pyproj to create a great 
+        circle distance given a series, array, or row of a dataframe and 
+        returns the distance:
         wgs84_geod = Geod(ellps='WGS84')
         lat1, long1 = trip_row.origin_latitude, trip_row.origin_longitude
         lat2, long2 = trip_row.dest_latitude, trip_row.dest_longitude
         az12,az21,dist = wgs84_geod.inv(long1,lat1,long2,lat2)
-        dist = round((dist / 1000), 1)
+        kmdist = round((dist / 1000), 1)
+        
+        This new version is a direct calculation using the Haversine formula.
+        
+        The inputs from the series need to include depart_lat, depart_long,
+        arrive_lat, and arrive_long.  Distance is returned in kilometers
+        """
+        lat1, long1 = trip_row.origin_latitude, trip_row.origin_longitude
+        lat2, long2 = trip_row.dest_latitude, trip_row.dest_longitude
+        long1, lat1, long2, lat2 = map(radians, [long1, lat1, long2, lat2])
+        dlong = long2 - long1 
+        dlat = lat2 - lat1 
+        angle = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlong/2)**2
+        arc_dist = 2 * arcsin(sqrt(angle)) 
+        km = 6367 * arc_dist
         return dist
 
     def error_output(self, tofile=False, filename=None):
