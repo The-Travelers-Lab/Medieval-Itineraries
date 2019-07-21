@@ -4,12 +4,8 @@
 interactive_gaz_itin_commands.py
 
 This is a set of commands to run the gazetteer_class and itinerary_class
-python modules.  It includes line-by-line instructions of where to change
-particular names and items to have everything run correctly.
-
-GO TO MAIN(): to enter your particular information to run the functions.
-Most of the functions can be run sequencially if desired, especially within
-only itinerary functions or only gazetteer functions.
+python modules.  See the gazetteer_and_itinerary_functions_list file for
+the command entries and suggestions.
 
 Dependencies:
     gazetteer_class.py
@@ -20,7 +16,8 @@ Dependencies:
         levenshtein
         requests
         json
-        pyproj
+        pyproj # not currently - replaced with a haversine function
+        os
         datetime
 
 @author: Adam Franklin-Lyons
@@ -31,6 +28,7 @@ Created on Tue Jul  2 13:36:40 2019
 
 from gazetteer_class import Gazetteer
 from itinerary_class import Itinerary
+import os
 import pandas as pd
 
 Command_Dict = {'process a gazetteer': 'run_gaz',
@@ -65,26 +63,23 @@ Command_Dict = {'process a gazetteer': 'run_gaz',
                     'save final itinerary as': 'final_itin_save'}
 
 def main():
-    use_file = True
-    data_file_name = 'gazetteer_and_itinerary_functions_list.txt'
-    if use_file:
-        data_from_file(data_file_name)
-
-def data_from_file(file_name):
     """
     Reads in a text file with a series of lines that form the answers to the
     various questions above and create the dictionary for the Gazetteer and
     Itinerary functions to all run.
     """
     try:
-        input_file = open(file_name, "r")
-        input_text = input_file.readlines()
-        input_text = input_text[input_text.index('Gazetteer Functions:\n')+1:]
-        choice_dict = {}
-        for line in input_text:
-            key, value = function_names(line)
-            choice_dict[key] = value
-        choice_dict['attribute_list'] = choice_dict['attribute_list'
+        file_dir = os.path.dirname(os.path.realpath('__file__'))
+        input_filename = "gazetteer_and_itinerary_functions_list.txt"
+        file_path = os.path.join(file_dir, input_filename)
+        with open(file_path, "r") as input_file:
+            input_text = input_file.readlines()
+            input_text = input_text[input_text.index('Gazetteer Functions:\n')+1:]
+            choice_dict = {}
+            for line in input_text:
+                key, value = function_names(line)
+                choice_dict[key] = value
+            choice_dict['attribute_list'] = choice_dict['attribute_list'
                                                        ].split(',')
         if choice_dict['run_gaz'] == True:
             gaz_functions(choice_dict)
