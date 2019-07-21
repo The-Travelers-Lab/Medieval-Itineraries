@@ -133,23 +133,23 @@ def gaz_functions(choice_dict):
     g_error_output - (T/F)
     g_error_file - <str>
     """
-    main_gaz = Gazetteer(choice_dict['gaz_file'], choice_dict['geonames_id'])
+    gaz_path = get_current_path(choice_dict['gaz_file'])
+    main_gaz = Gazetteer(gaz_path, choice_dict['geonames_id'])
     if choice_dict['comp_gazs'] == True:
+        refgaz_path = get_current_path(choice_dict['ref_gaz_file'])
         if choice_dict['save_gaz'] == 'save':
-            main_gaz.check_existing_gaz(choice_dict['ref_gaz_file'],
-                                        save=True)
+            main_gaz.check_existing_gaz(refgaz_path, save=True)
         elif choice_dict['save_gaz'] == 'both':
-            main_gaz.check_existing_gaz(choice_dict['ref_gaz_file'],
-                                        save='both')
+            main_gaz.check_existing_gaz(refgaz_path, save='both')
         elif choice_dict['save_gaz'] == 'merge':
-            main_gaz.check_existing_gaz(choice_dict['ref_gaz_file'],
-                                        merge=True)
+            main_gaz.check_existing_gaz(refgaz_path, merge=True)
     if choice_dict['double_ids'] == True:
         main_gaz.geoname_id_lookup(number='double')
     elif choice_dict['check_ids'] == True:
         main_gaz.geoname_id_lookup()
     if choice_dict['itin_ids'] == True:
-        itin = Itinerary(choice_dict['ref_itin_file'])
+        itin_path = get_current_path(choice_dict['ref_itin_file'])
+        itin = Itinerary(itin_path)
         main_gaz.itinerary_labels(itin.itin_df, choice_dict['itin_code'])
     if choice_dict['final_save'] == '<same>':
         main_gaz.csv_output()
@@ -179,11 +179,13 @@ def itin_functions(choice_dict):
     i_error_file - <str>
     final_itin_save - <str>
     """
-    main_itin = Itinerary(choice_dict['itin_file'],
+    itin_path = get_current_path(choice_dict['itin_file'])
+    main_itin = Itinerary(itin_path,
                           latlong=choice_dict['lat_long'])
     if (choice_dict['fuzz_match'] == True or
         choice_dict['atr_lookup'] == True):
-        ref_gaz = Gazetteer(choice_dict['itin_gaz_file'],
+        ref_gaz_path = get_current_path(choice_dict['itin_gaz_file'])
+        ref_gaz = Gazetteer(ref_gaz_path,
                             choice_dict['geonames_id'])
         if choice_dict['fuzz_match'] == True:
             main_itin.fuzzy_gaz_name_match(ref_gaz.gaz_df)
