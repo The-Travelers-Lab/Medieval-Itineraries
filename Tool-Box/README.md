@@ -16,3 +16,18 @@ is designed for data science tasks and includes pandas and other
 nice visualization libraries:
 
 https://www.anaconda.com/distribution/
+
+The other dependencies you will have to include manually.  After 
+installing anaconda, open your terminal or command prompt (Terminal on 
+a mac, cmd in windows), and enter the following line:
+
+conda install -c conda-forge python-levenshtein
+
+Then open the Anaconda Navigator (installed with anaconda) and check that
+the Levenshtein package has appeared.  Click on "Environments" and look 
+at the installed packages in the "root" environment.  There should be a
+package installed called "python-levenshtein" (you can use the search box 
+in the upper right to find it.)  While you are there, choose the list of
+not installed packages, search for "pyproj" and install that package as 
+well.  Both these steps will take a bit of time for the computer to 
+install, but when they are finished you are ready to go.
