@@ -13,6 +13,16 @@ research, and other projects.
 
 website: http://travelerslab.research.wesleyan.edu
 
+# Note on Encoding
+All of the files here are encoded using UTF-8.  If you are adding data or looking for
+matches in a gazetteer, it will all work better if your own files are also encoded in
+UTF-8.  Downloading a CSV from a google spreadsheet saves a UTF-8 file, but saving a CSV 
+from Microsoft Excel does not.  If you are using Excel, you can either copy and paste
+your data into google to save as a CSV, or open your excel file in OpenOffice Calc and
+when you select "save as" in Calc, there will be a CSV option and an encoding option 
+for UTF-8.  You can read about the many tribulations in this question at length here:
+
+https://stackoverflow.com/questions/4221176/excel-to-csv-with-utf8-encoding
 
 # Dependencies
 * Python 3.6
