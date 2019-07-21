@@ -224,7 +224,7 @@ class Itinerary:
         All incomplete dates or bad date entries will be left empty and
         logged in the "error_checks" list.
         """
-        self.verify_cols()
+        self._verify_cols()
         message = []
         # Structures dates as yyyy-mm-dd from three independent columns.
         self.itin_df['dates'] = self.itin_df.apply(lambda x:
@@ -329,7 +329,7 @@ class Itinerary:
             distance (decimal) - the straight line distance in kilometers
                         between the two points
         """
-        self.verify_cols()
+        self._verify_cols()
         # Prevents function from running without latitude and longitude
         if (not self.latlong) or self.itin_df.latitude.empty:
             print('This Itinerary is lacking coordinates please create a '
