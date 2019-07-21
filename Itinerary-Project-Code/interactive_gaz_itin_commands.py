@@ -69,9 +69,7 @@ def main():
     Itinerary functions to all run.
     """
     try:
-        file_dir = os.path.dirname(os.path.realpath('__file__'))
-        input_filename = "gazetteer_and_itinerary_functions_list.txt"
-        file_path = os.path.join(file_dir, input_filename)
+        file_path = get_current_path("gazetteer_and_itinerary_functions_list.txt")
         with open(file_path, "r") as input_file:
             input_text = input_file.readlines()
             input_text = input_text[input_text.index('Gazetteer Functions:\n')+1:]
@@ -212,5 +210,10 @@ def itin_functions(choice_dict):
     if choice_dict['i_error_output'] == True:
         main_itin.error_output(tofile=True,
                               filename=choice_dict['i_error_file'])
+
+def get_current_path(filename):
+    file_dir = os.path.dirname(os.path.realpath('__file__'))
+    file_path = os.path.join(file_dir, filename)
+    return file_path
 
 main()
