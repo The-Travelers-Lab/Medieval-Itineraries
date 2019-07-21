@@ -85,7 +85,8 @@ def main():
             itin_functions(choice_dict)
         print_choices(choice_dict)
     except OSError:
-        print('One of your file names is not valid.  Please try again.')
+        print('There is a problem with the functions filename '
+              'or the file is not in the same folder.  Please try again.')
 
 def function_names(line):
     choice = line.split(':')
