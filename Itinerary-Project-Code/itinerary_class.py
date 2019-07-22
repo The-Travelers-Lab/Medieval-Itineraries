@@ -436,8 +436,8 @@ class Itinerary:
         dlat = lat2 - lat1 
         angle = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlong/2)**2
         arc_dist = 2 * arcsin(sqrt(angle)) 
-        km = 6367 * arc_dist
-        return dist
+        km_dist = 6367 * arc_dist
+        return km_dist
 
     def error_output(self, tofile=False, filename=None):
         """
