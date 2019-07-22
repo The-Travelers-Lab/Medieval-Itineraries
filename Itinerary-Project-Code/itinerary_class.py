@@ -289,7 +289,7 @@ class Itinerary:
         drop_col = ['modern_name']
         if self.latlong: drop_col += ['latitude', 'longitude']
         columns = cols1 + gaz_df.columns.drop(drop_col).tolist()
-        gaz_df = gaz_df.reindex(columns, axis=1)
+        gaz_df = pd.DataFrame(gaz_df, columns=columns)
         if 'dates' in columns: gaz_df.drop(columns='dates', inplace=True)
         return gaz_df
 
