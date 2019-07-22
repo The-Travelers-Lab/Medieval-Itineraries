@@ -284,10 +284,9 @@ class Itinerary:
         gaz_df = self.itin_df.loc[gaz_x]
         gaz_df.drop(columns=['day','month','year'], inplace=True)
         gaz_df.sort_values('modern_name', inplace=True)
-        if self.latlong: cols1 = ['modern_name', 'latitude', 'longitude']
-        else: cols1 = ['modern_name']
-        cols2 = ['modern_country', 'checked', 'certainty']
-        columns = cols1 + cols2 + gaz_df.columns.drop(cols1).tolist()
+        cols1 = ['modern_name','modern_country', 'checked', 
+                 'certainty', 'latitude', 'longitude']
+        columns = cols1 + gaz_df.columns.drop(cols1).tolist()
         gaz_df = gaz_df.reindex(columns, axis=1)
         if 'dates' in columns: gaz_df.drop(columns='dates', inplace=True)
         return gaz_df
