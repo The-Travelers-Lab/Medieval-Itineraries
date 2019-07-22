@@ -482,6 +482,7 @@ class Itinerary:
         if {'latitude','longitude'}.issubset(columns):
             self.latlong = True
         else:
+            self.latlong = False
             message.append('Note: This itinerary lacks Lat-Long coordinates.')
         # print(message)
         return no_flag, message
