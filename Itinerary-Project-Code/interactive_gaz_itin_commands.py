@@ -154,7 +154,9 @@ def gaz_functions(choice_dict):
         itin_path = get_current_path(choice_dict['ref_itin_file'])
         itin = Itinerary(itin_path)
         main_gaz.itinerary_labels(itin.itin_df, choice_dict['itin_code'])
-    if choice_dict['final_save'] == '<same>':
+    if choice_dict['final_save'] == 'none':
+        None
+    elif choice_dict['final_save'] == '<same>':
         main_gaz.csv_output()
     else:
         main_gaz.csv_output(out_file_name=choice_dict['final_save'])
