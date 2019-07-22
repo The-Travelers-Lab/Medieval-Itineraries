@@ -13,6 +13,9 @@ Caminos y caminantes por las tierras de Madrid medieval, edited by Cristina Segu
 
 Francisco de Asís Veas Arteseros, Itinerario de Enrique III, EDITUM, 200
 
+## Texts in English ##
+R.W. Eyton, Court, Household, and Itinerary of King Henry II, Taylor and Co., London, 1878 - although Nicholas Vincent is in the process of producing a revised itinerary for Henry II
+
 ## Unchecked References ##
 
 TORRE, Susana A della, ''Noticias de viajes en la España cristiana medieval", 
