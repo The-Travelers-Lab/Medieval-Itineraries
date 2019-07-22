@@ -200,7 +200,8 @@ def itin_functions(choice_dict):
         main_itin.format_dates()
     if choice_dict['itin_to_gaz'] == True:
         itin_gaz_df = main_itin.itin_to_gaz()
-        itin_gaz_df.to_csv(choice_dict['gaz_file_out'], index=False)
+        output_path = get_current_path(choice_dict['gaz_file_out'])
+        itin_gaz_df.to_csv(output_path, index=False)
     if choice_dict['itin_to_trips'] == True:
         if choice_dict['keep_dates'] == True:
             itin_trips_df = main_itin.itin_to_trips(date_style='all')
