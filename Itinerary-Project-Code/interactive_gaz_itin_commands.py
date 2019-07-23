@@ -81,7 +81,7 @@ def main():
                 key, value = function_names(line)
                 choice_dict[key] = value
             choice_dict['attribute_list'] = choice_dict['attribute_list'
-                                                       ].split(',')
+                                                       ].replace(' ', '').split(',')
         if choice_dict['run_gaz'] == True:
             gaz_functions(choice_dict)
         if choice_dict['run_itin'] == True:
