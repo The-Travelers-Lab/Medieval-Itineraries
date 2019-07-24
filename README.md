@@ -28,7 +28,7 @@ https://stackoverflow.com/questions/4221176/excel-to-csv-with-utf8-encoding
 * Python 3.6
 * Pandas 0.24.2
 * Levenshtein 0.12.0
-* pyproj 2.2.1
+* pyproj 2.2.1 (Optional - current version does not use pyproj)
 
 The python code also makes use of the 'datetime', 'json', and 'requests' python modules. 
 
