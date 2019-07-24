@@ -1,4 +1,4 @@
-CERTAINTY (for the gazetteer column):,,
+CERTAINTY:,(for the gazetteer column),
 ,,
 "The following chart is for Gazateers only",,
 ,"These are based on our certainty of the modern town and its continuing location.",
@@ -15,10 +15,10 @@ Number,Description,Examples from Jaume II
 6,"Not only do we have the exact town, but we know the exact building the king was inside of.  Normally this will be a monastery or a castle.",Monasterio de Santes Creus
 ,,
 ,,
-Itinerary Codes (for specific location problems),,
-,,
-These should be entered on every town to,,
-which they apply and may appear multiple times,, 
+ITINERARY CODES:,,
+,These codes are for problems within the structure of the Itineraries, not Gazeteers,
+,These should be entered on every town to,
+,which they apply and may appear multiple times, 
 ,,
 Code,Description,Examples
 1,"The name does not exactly match the modern name, but is either very close or the name change is relatively well known.  The location also works well in the listed Itinerary and does not cause other problems.","Montfalco (Montfalco Murallat), Vañón (Bañón)"
