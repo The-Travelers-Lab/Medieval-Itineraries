@@ -19,7 +19,7 @@ https://www.anaconda.com/distribution/
 
 The other dependencies you will have to include manually.  After 
 installing anaconda, open your terminal or command prompt (Terminal on 
-a mac, cmd in windows), and enter the following line:
+a mac, command prompt in windows), and enter the following line:
 
 conda install -c conda-forge python-levenshtein
 
