@@ -1,0 +1,135 @@
+modern_name,modern_country,checked,certainty,latitude,longitude,itin_code,County,Notes or reference #,name_match,geo_dist,geo_id,guess1,g_dist1,geo_id_guess1,guess2,g_dist2,geo_id_guess2
+Alcester,,,,52.417951,-1.8985023,EE_WBW,Worcestershire,,,,,Bournville,1.2441,2655094.0,Best Western Birmingham Metro Maypole Hotel,1.67353,9257831.0
+Alderton,,,,51.995446,-2.0014103,EE_WBW,Gloucestershire,251,Alderton,0.25529,2657539.0,,,,,,
+Alvechurch,,,,52.346070000000005,-1.9720644,EE_WBW,Worcestershire,,Alvechurch,0.78036,2657395.0,,,,,,
+Arrow,,,,52.202186,-1.8989933,EE_WBW,Warwickshire,,,,,Weethley,2.2369,2634604.0,Ragley Hall,0.52119,9353155.0
+Auckland,,,,54.655702000000005,-1.6915216,EE_WBW,Durham,,,,,Bishop Auckland,0.93345,2655583.0,Bishop Auckland General Hospital,0.72373,6289840.0
+Avignon,,,,43.949317,4.805528,EE_WBW,,,Avignon,0.29333,3035681.0,,,,,,
+Badminton,,,,51.536544,-2.2897474,EE_WBW,Gloucestershire,,Badminton,0.76057,2648170.0,,,,,,
+Belbroughton,,,,52.381958000000004,-2.1336481,EE_WBW,Worcestershire,,Belbroughton,1.48655,2655992.0,,,,,,
+Berkhamstead,,,,51.762118,-0.5814043999999999,EE_WBW,Hertfordshire,error 1115,,,,Northchurch,1.03658,2641394.0,Gossoms End Elderly Care Unit,0.31061,6289153.0
+Bidford,,,,52.157188,-1.8552428,EE_WBW,Warwickshire,,,,,Bidford-on-avon,1.12258,6640065.0,Broom Hall Inn,2.34639,9951527.0
+Billeswick,,,,51.47254,-2.5772934,EE_WBW,Gloucestershire,,,,,Easton,1.21123,12047505.0,Montpelier Railway Station,0.91671,6953161.0
+Bishops Cleeve,,,,51.947365999999995,-2.060942,EE_WBW,,,Bishop's Cleeve,0.1264,2655570.0,,,,,,
+Blockley,,,,52.00421,-1.768331,EE_WBW,"Worcs (det), locally in Gloucs",,Blockley,0.97005,2655336.0,,,,,,
+Boddington,,,,51.923409,-2.1613618999999997,EE_WBW,Gloucestershire,,,,,Staverton,1.34384,2636990.0,Best Western Cheltenham Regency Hotel,2.77925,9257856.0
+Bosbury,,,,52.084478000000004,-2.4538159,EE_WBW,Herefordshire,,Bosbury,0.82183,2655149.0,,,,,,
+Bredicot,,,,52.19339,-2.141104,EE_WBW,,,,,,Spetchley,1.37135,2637233.0,Worcestershire Royal Hospital,2.74862,6288909.0
+Bredon,,,,52.022359,-2.1179982,EE_WBW,Worcestershire,"194, 1120",Bredon,0.86364,2654807.0,,,,,,
+Brekeley,,,,51.688836,-2.4643126,EE_WBW,Gloucestershire,,Berkeley,0.43669,2655861.0,,,,,,
+Bristol,,,,51.47254,-2.5772934,EE_WBW,Gloucestershire,,,,,Easton,1.21123,12047505.0,Montpelier Railway Station,0.91671,6953161.0
+Bristol Deanery,,,,51.47254,-2.5772934,EE_WBW,Gloucestershire,,,,,Easton,1.21123,12047505.0,Montpelier Railway Station,0.91671,6953161.0
+Broadway,,,,52.031338,-1.8702251,EE_WBW,Worcestershire,,Broadway,1.00544,2654628.0,,,,,,
+Buckden,,,,52.28826,-0.2567603,EE_WBW,Huntingdonshire,two places,Buckden,0.83728,2654419.0,,,,,,
+Burton by Beverley,,,,53.838018000000005,-0.5121996,EE_WBW,"Yorkshire, East Riding",,,,,Bishop Burton,1.25512,2655580.0,Beverley Racecourse,3.99316,8378644.0
+Calais,,,,50.95129,1.858686,EE_WBW,,,Calais,0.17956,3029162.0,,,,,,
+Campden,,,,52.031209000000004,-1.7827679,EE_WBW,Gloucestershire,,,,,Broad Campden,1.41928,8181682.0,Cotswold House Hotel,2.00465,6509688.0
+Canterbury,,,,51.27195,1.0665648,EE_WBW,Kent,,,,,Thanington,0.74935,8063682.0,Canterbury East Railway Station,0.68313,6945273.0
+Cheltenham,,,,51.95049,-1.9723085,EE_WBW,Gloucestershire,117,,,,Winchcombe,0.67082,2633860.0,Sudeley Castle,1.16525,6287226.0
+Chelthenham,,,,51.899386,-2.0782529999999997,EE_WBW,,,Cheltenham,0.12578,2653261.0,,,,,,
+Cirencester,,,,51.707734,-1.9724556,EE_WBW,Gloucestershire,28 Feb? 263,Cirencester,1.2854,2652995.0,,,,,,
+Codrington,,,,51.500238,-2.4047672,EE_WBW,Gloucestershire,,,,,Hinton,1.81844,2646850.0,The Players Golf Club,2.44802,12023555.0
+Cofton,,,,53.64813100000001,-1.426612,EE_WBW,"Yorkshire, West Riding",,,,,Crofton West Yorks,0.65221,8468718.0,Bw Waterton Park Hotel,2.48116,6532403.0
+Cropthorne,,,,52.094342,-2.0160108,EE_WBW,Worcestershire,,Cropthorne,1.21383,11592777.0,,,,,,
+Dover,,,,51.121687,1.2995755,EE_WBW,Kent,,,,,Maxton,0.66736,11550761.0,Dover Priory Railway Station,0.59711,6945262.0
+Droitwich,,,,52.265068,-2.1479485,EE_WBW,Worcestershire,,Droitwich,0.22641,2650983.0,,,,,,
+Drotwich,,,,52.265068,-2.1479485,EE_WBW,Worcestershire,,Droitwich,0.22641,2650983.0,,,,,,
+Dursley Deanery,,,,51.680246000000004,-2.3485177999999998,EE_WBW,Gloucestershire,,,,,Dursley,0.35651,2650613.0,Tyndale Mental Health Centre,0.41602,6288860.0
+Eastington,,,,51.7502,-2.31732,EE_WBW,,1142,Eastington,0.70855,3345342.0,,,,,,
+Eaton,,,,52.03756,-2.8178035,EE_WBW,Herefordshire,several places,,,,Eaton Bishop,0.95892,2650296.0,Eaton Camp,1.91186,6286195.0
+Ebrington,,,,52.058091999999995,-1.7388827,EE_WBW,Gloucestershire,255,Ebrington,0.46061,2650282.0,,,,,,
+Elmbridge,,,,52.301029,-2.1480685,EE_WBW,Worcestershire,,Elmbridge,1.74504,2650080.0,,,,,,
+Elstow,,,,52.10238,-0.4684299,EE_WBW,Bedfordshire,,Elstow,0.59534,2650048.0,,,,,,
+Fairford,,,,51.698547999999995,-1.7843625,EE_WBW,Gloucestershire,,Fairford,1.09086,2649741.0,,,,,,
+Farnham,,,,51.207042,-0.7989388000000001,EE_WBW,Surrey,,Farnham,0.83062,2649660.0,,,,,,
+Fladbury,,,,52.112322999999996,-2.0160172999999997,EE_WBW,Worcestershire,,Fladbury,0.60769,2649345.0,,,,,,
+Gimingham,,,,52.873127000000004,1.386457,EE_WBW,Norfolk,,Gimingham,0.51923,2648640.0,,,,,,
+Glasshampton,,,,52.299793,-2.316227,EE_WBW,,,,,,Astley,0.03782,2656878.0,Lenchford,2.92339,9951562.0
+Gloucester,,,,51.860322,-2.2482616,EE_WBW,Gloucestershire,1225,Gloucester,0.69417,2648404.0,,,,,,
+Gloucester Deanery,,,,51.860322,-2.2482616,EE_WBW,Gloucestershire,,Gloucester,0.69417,2648404.0,,,,,,
+Grantham,,,,52.904741,-0.6484518,EE_WBW,Lincolnshire,,Grantham,0.87286,2648208.0,,,,,,
+Great Malvern,,,,52.1114,-2.329,EE_WBW,Worcestershire,1181; Coords source: https://en.wikipedia.org/wiki/Great_Malvern,Great Malvern,0.26467,2648063.0,,,,,,
+Hadham,,,,51.851537,0.06027292,EE_WBW,Hertfordshire,,,,,Hadham Cross,0.79814,11592721.0,Widford Barrow Hill,2.19009,6286571.0
+Hagley,,,,52.426908000000005,-2.1337842,EE_WBW,Worcestershire,,Hagley,0.38847,2647662.0,,,,,,
+Halesowen,,,,52.444949,-2.0602769,EE_WBW,Worcestershire,,,,,Hasbury,0.58839,2647376.0,Hasbury Primary,0.09036,6289989.0
+Hampton,,,,52.08535,-1.9722258999999998,EE_WBW,Worcestershire,,,,,Evesham,1.78139,2649833.0,Evesham Community Hospital,1.61648,6288911.0
+Hampton Bishop,,,,52.038564,-2.6574537,EE_WBW,Herefordshire,,Hampton Bishop,0.73583,2647548.0,,,,,,
+Hanslope,,,,52.106555,-0.8333315,EE_WBW,Buckinghamshire,,Hanslope,0.96899,2647518.0,,,,,,
+Hartlebury,,,,52.327826,-2.2508729,EE_WBW,Worcestershire,,Hartlebury,1.34359,2647401.0,,,,,,
+Hawkesbury,,,,52.327826,-2.2508729,EE_WBW,Worcestershire,,,,,Hartlebury,1.34359,2647401.0,Hartlebury Castle,1.37983,6286821.0
+Hawkesbury and Bitton Deanery,,,,51.419103,-2.4615728999999997,EE_WBW,Gloucestershire,,,,,Bitton,0.64723,2655536.0,Avon Riverside Railway Station,0.4823,6955251.0
+Henbury,,,,51.499215,-2.6352549,EE_WBW,Gloucestershire,133; Henbury implied not explicit,Henbury,1.02343,2647117.0,,,,,,
+Henbury in Salt Marsh,,,,51.492383000000004,-2.619894,EE_WBW,Gloucestershire,,,,,Westbury on Trym,0.03862,11550752.0,90th Bristol Scout Group,0.19603,7303268.0
+Hereford,,,,52.047214000000004,-2.7159075,EE_WBW,Herefordshire,,Hereford,1.07377,2647074.0,,,,,,
+Hillingdon,,,,51.526595,-0.4445791,EE_WBW,Middlesex,,Hillingdon,0.9106,2646895.0,,,,,,
+Hinton,,,,51.724799,-2.4646811,EE_WBW,Gloucestershire,several places,,,,Sharpness,1.05058,2638117.0,Gatcombe,2.41091,8051163.0
+Honington,,,,52.075757,-1.6220534,EE_WBW,Warwickshire,several places,Honington,0.71423,2646662.0,,,,,,
+Horsely,,,,51.680503,-2.2472759,EE_WBW,Gloucestershire,,Horsley,1.01444,2646554.0,,,,,,
+Horsley,,,,51.680503,-2.2472759,EE_WBW,Gloucestershire,117,Horsley,1.01444,2646554.0,,,,,,
+Iron Acton,,,,51.549,-2.463,EE_WBW,Gloucestershire,117,Iron Acton,0.14965,2646040.0,,,,,,
+Kempsey,,,,52.139089,-2.2205872,EE_WBW,Worcestershire,,Kempsey,0.21306,2645833.0,,,,,,
+Kennington,,,,51.714328,-1.2487393,EE_WBW,Berkshire,several places,,,,Sandford-on-Thames,1.4204,6620301.0,Pembroke Guest House,0.65237,10296385.0
+Kidderminster,,,,52.381734,-2.2658701,EE_WBW,Worcestershire,,,,,Blakebrook,0.44331,10104151.0,Gainsborough House Hotel,0.31928,6493848.0
+Kings Stanley,,,,51.733044,-2.272903,EE_WBW,Wiltshire,,King’s Stanley,0.3422,3345343.0,,,,,,
+Kingscote,,,,51.662456,-2.2760929,EE_WBW,Gloucestershire,117,Kingscote,0.80302,2645476.0,,,,,,
+Leominster,,,,52.226828000000005,-2.7480748999999998,EE_WBW,Herefordshire,,Leominster,0.24311,2644613.0,,,,,,
+Liddington,,,,51.527561,-1.7130957999999998,EE_WBW,Wiltshire,,Liddington,0.83248,2644526.0,,,,,,
+Llanthony Priory,,,,51.86,-2.2569999999999997,EE_WBW,Gloucestershire,117; Coord source: https://en.wikipedia.org/wiki/Llanthony_Secunda,,,,Gloucester,1.14734,2648404.0,Sleep Inn Tewkesbury,0.65903,6526905.0
+Llanthony next Gloucester,,,,51.860322,-2.2482616,EE_WBW,Gloucestershire,1085,,,,Gloucester,0.69417,2648404.0,Sleep Inn Tewkesbury,0.41197,6526905.0
+London,,,,51.512747,-0.11358319999999998,EE_WBW,Middlesex,"#6,7,8",,,,Fleet Street,0.27193,11552741.0,St Clement Danes,0.04464,12047343.0
+Longdon,,,,52.022154,-2.2491575,EE_WBW,Worcestershire,,Longdon,1.24613,2643700.0,,,,,,
+Loxley,,,,52.165706,-1.6359125,EE_WBW,Warwickshire,several places,Loxley,1.33905,2643464.0,,,,,,
+Milborne,,,,51.581826,-2.0879871,EE_WBW,Wiltshire,several places,,,,Malmesbury,0.63028,2643146.0,Malmesbury Community Hospital,0.65198,6288863.0
+Minchinhampton,,,,51.698568,-2.2039671000000003,EE_WBW,Gloucestershire,267,,,,Nailsworth,1.222,2641912.0,The New Lawn,2.02393,7646029.0
+Mortlake,,,,51.461264,-0.2740579,EE_WBW,Surrey,,,,,East Sheen,0.43125,11551053.0,Mortlake Railway Station,0.90698,6953176.0
+"Old Temple, London",,,,51.512747,-0.11358319999999998,EE_WBW,Middlesex,,,,,Fleet Street,0.27193,11552741.0,St Clement Danes,0.04464,12047343.0
+Olveston,,,,51.580432,-2.5786601000000005,EE_WBW,Gloucestershire,,Olveston,0.08108,2640969.0,,,,,,
+Orsett,,,,51.50414,0.3615811,EE_WBW,Essex,,Orsett,0.99949,2640890.0,,,,,,
+Overbury,,,,52.031386,-2.0742931000000002,EE_WBW,Worcestershire,476,,,,Kemerton,0.3937,7281605.0,Ashchurch For Tewkesbury Railway Station,4.32007,6951929.0
+Oxford,,,,51.750381,-1.2626274,EE_WBW,Oxfordshire,,Oxford,0.50387,2640729.0,,,,,,
+Pershore,,,,52.1033,-2.0890127,EE_WBW,Worcestershire,,Pershore,1.29247,2640360.0,,,,,,
+Pinley,,,,52.389913,-1.4871298000000002,EE_WBW,Warwickshire,,,,,Whitley,0.7189,2634034.0,Ibis Coventry South Whitley,0.2459,6508147.0
+Potterne,,,,51.321104,-2.0157356,EE_WBW,Wiltshire,,Potterne,1.16009,2639971.0,,,,,,
+Powick,,,,52.157012,-2.2499105,EE_WBW,Worcestershire,,Powick,1.0743,2639947.0,,,,,,
+Prestbury,,,,53.294056999999995,-2.148725,EE_WBW,,277,Prestbury,1.19648,2639925.0,,,,,,
+Pucklechurch,,,,51.482098,-2.4478082999999997,EE_WBW,Gloucestershire,1102: ordinations,,,,Siston,0.86503,2637805.0,Shortwood Lodge Golf Club,1.5544,12023554.0
+Ramsbury,,,,51.437358,-1.6129552,EE_WBW,Wiltshire,,Ramsbury,1.01227,2639667.0,,,,,,
+Reepham,,,,53.244039,-0.45794929999999995,EE_WBW,Lincolnshire,,,,,Cherry Willingham,0.7712,11592763.0,Washingborough Hall,2.75814,10238943.0
+Ripple,,,,52.031254,-2.190903,EE_WBW,Worcestershire,,Ripple,0.56869,2639321.0,,,,,,
+Rock,,,,52.336413,-2.3976857999999996,EE_WBW,Worcestershire,,Rock,0.37725,2639264.0,,,,,,
+Rowington,,,,52.318743,-1.7080117,EE_WBW,Warwickshire,,Rowington,0.46886,2639044.0,,,,,,
+Salisbury,,,,51.069163,-1.8015686000000002,EE_WBW,Wiltshire,,Salisbury,0.41272,2638664.0,,,,,,
+Sedgeberrow,,,,52.040397,-1.9722534999999999,EE_WBW,Worcestershire,,Sedgeberrow,0.70478,2638261.0,,,,,,
+Sherborne,,,,51.824365,-1.7547442,EE_WBW,Gloucestershire,261,Sherborne,0.91688,2638031.0,,,,,,
+Southwark,,,,51.503528,-0.0995549,EE_WBW,Surrey,,,,,Cathedrals,0.14888,12048093.0,Travelodge Southwark,0.15822,6943780.0
+Spetchley,,,,52.175146000000005,-2.1622727000000004,EE_WBW,Worcestershire,35,Spetchley,1.1272,2637233.0,,,,,,
+"St. Denis, Paris",,,,48.878026,2.3706400000000003,EE_WBW,,,,,,Paris 05 Ancien - Quartier Porte-Saint-Martin,0.40138,9844025.0,Generator Hostel Paris,0.05943,10245093.0
+St. Katherine next Lincoln,,,,51.503293,-0.0851556,EE_WBW,Middlesex,,,,,Southwark,0.38761,2637299.0,Shangri La Hotel At The Shard,0.15364,9260172.0
+Standish,,,,51.770313,-2.2912432000000003,EE_WBW,Gloucestershire,117,Standish,0.68025,2637097.0,,,,,,
+Stanton,,,,52.0064,-1.8968,EE_WBW,Gloucestershire,1186,Stanton,0.28491,2637050.0,,,,,,
+Stoneham,,,,50.950835999999995,-1.3892337,EE_WBW,Hampshire,,,,,Bassett,1.2493,2656185.0,Red Lodge,0.76227,2639538.0
+Stonehouse Deanery,,,,51.74334,-2.2910695,EE_WBW,Gloucestershire,several places,Stonehouse,0.91355,2636811.0,,,,,,
+Stow,,,,53.318625,-0.680449,EE_WBW,Lincolnshire,,Stow,1.02554,2636761.0,,,,,,
+Stow on the Wold,,,,51.930837,-1.722896,EE_WBW,Gloucestershire,1073,Stow on the Wold,0.10538,2636748.0,,,,,,
+Stratford,,,,52.040267,-2.1763622000000002,EE_WBW,Worcestershire,,,,,Ripple,0.90777,2639321.0,"Hilton Puckrup Hall, Tewkesbury",1.62459,6467778.0
+Sutton Coldfield,,,,52.561703,-1.8244144,EE_WBW,Warwickshire,,Sutton Coldfield,0.76232,2636486.0,,,,,,
+Tanworth,,,,52.327985,-1.8400134,EE_WBW,Warwickshire,,Tanworth,0.64605,2636253.0,,,,,,
+Tetbury,,,,51.635698,-2.1603372000000003,EE_WBW,Gloucestershire,,Tetbury,0.43678,2636083.0,,,,,,
+Tewkesbury,,,,51.986345,-2.1615883,EE_WBW,Gloucestershire,,,,,Priors Park,0.47765,9258768.0,Tewkesbury Park Hotel,0.32111,6466419.0
+Towcester,,,,52.126013,-0.9935091999999999,EE_WBW,Northamptonshire,,Towcester,0.86712,2635597.0,,,,,,
+Tredington,,,,52.084793,-1.6365709,EE_WBW,"Worcs (det), locally in Warks",,,,,Honington,1.32004,2646662.0,Ellen Badger Hospital,2.20654,6288927.0
+Upton Warren,,,,52.058175,-2.2201879,EE_WBW,Worcestershire,,,,,Upton upon Severn,0.51262,2635080.0,Upton upon Severn Castle,0.70155,6287715.0
+Upton upon Severn,,,,52.063126000000004,-2.216566,EE_WBW,,224,Upton upon Severn,0.11662,2635080.0,,,,,,
+Upton-on-Severn,,,,52.301076,-2.1040746,EE_WBW,Worcestershire,,,,,Upton Warren,0.46409,2635079.0,"Droitwich Longwave Transmitter, Mast North",0.5566,7281908.0
+Warwick,,,,52.282434,-1.5909815,EE_WBW,Warwickshire,,Warwick,0.53145,2634725.0,,,,,,
+Wellington,,,,50.972970000000004,-3.2262471,EE_WBW,Somerset,several places,Wellington,0.8463,2634575.0,,,,,,
+Westbury,,,,51.248996000000005,-2.2019694,EE_WBW,Wiltshire,several places,,,,Dilton Marsh,1.15125,2651257.0,Dilton Marsh Railway Station,0.41408,6952442.0
+Westminster,,,,51.495233,-0.1431191,EE_WBW,Middlesex,,,,,Victoria,0.12849,6690579.0,Apollo Victoria Theatre,0.05276,6690326.0
+Wick,,,,51.455178000000004,-2.4331526,EE_WBW,Gloucestershire,1128,Wick,0.70401,2633984.0,,,,,,
+Wick by Worcester,,,,52.174991999999996,-2.2500114,EE_WBW,Worcestershire,,,,,Powick,0.92636,2639947.0,Saint Johns Post Office,1.72413,10244203.0
+Wick-by-Worcester,,,,52.174991999999996,-2.2500114,EE_WBW,Worcestershire,,,,,Powick,0.92636,2639947.0,Saint Johns Post Office,1.72413,10244203.0
+Winchcombe,,,,51.95049,-1.9723085,EE_WBW,Gloucestershire,,Winchcombe,0.67082,2633860.0,,,,,,
+Winchcombe Deanery,,,,51.95049,-1.9723085,EE_WBW,Gloucestershire,,Winchcombe,0.67082,2633860.0,,,,,,
+Withington,,,,51.833604,-1.9578672,EE_WBW,Gloucestershire,,Withington,0.80734,2633740.0,,,,,,
+Wiveliscombe,,,,51.03497,-3.3134566,EE_WBW,Somerset,,Wiveliscombe,0.71568,2633720.0,,,,,,
+Worcester,,,,52.184041,-2.2208097999999996,EE_WBW,Worcestershire,37; less than four miles to Worcester from Spetchley,Worcester,0.59345,2633563.0,,,,,,

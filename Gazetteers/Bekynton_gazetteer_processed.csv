@@ -1,0 +1,59 @@
+modern_name,modern_country,checked,certainty,latitude,longitude,itin_code,FID,County,notes,name_match,geo_dist,geo_id,guess1,g_dist1,geo_id_guess1,guess2,g_dist2,geo_id_guess2
+Ambresbury,,,,51.174957,-1.779109,EE_TBBW,0,Wiltshire,,Amesbury,0.10809,2657355.0,,,,,,
+Athelney,,,,51.047540999999995,-2.942898,EE_TBBW,1,Somerset,,,,,Stoke Saint Gregory,1.15595,2636835.0,Burrow Mump,3.15644,6285911.0
+Athelney Monastery,,,,51.0593,-2.93458,EE_TBBW,2,Somerset,,,,,Athelney,0.36361,2656851.0,Burrow Mump,1.78289,6285911.0
+Bagshot,,,,51.358792,-0.694437,EE_TBBW,5,Surrey,in the diocese of Winchester in the inn marked with the sign of the Crown,Bagshot,0.49431,2656632.0,,,,,,
+Banwell,,,,51.326813,-2.876855,EE_TBBW,7,Somerset,,Banwell,0.58714,2656378.0,,,,,,
+Banwell Chapel,,,,51.326813,-2.876855,EE_TBBW,193,Somerset,Banwell chapel,,,,Banwell,0.58714,2656378.0,Best Western The Webbington Hotel And Spa,2.99508,10122409.0
+Banwell Manor,,,,51.326813,-2.876855,EE_TBBW,196,Somerset,Banwell manor,,,,Banwell,0.58714,2656378.0,Best Western The Webbington Hotel And Spa,2.99508,10122409.0
+Banwell Parish Church,,,,51.326813,-2.876855,EE_TBBW,217,Somerset,Parish church,,,,Banwell,0.58714,2656378.0,Best Western The Webbington Hotel And Spa,2.99508,10122409.0
+Bath,,,,51.374455,-2.374923,EE_TBBW,218,Somerset,,Bath,0.92213,2656173.0,,,,,,
+Bath priory,,,,51.3815,-2.3587,EE_TBBW,221,Somerset,,,,,Bath,0.74243,2656173.0,Bath Abbey,0,7701619.0
+Bedewynde,,,,51.379,-1.6019999999999999,EE_TBBW,222,,Bishop's inn at Bedewynde,,,,Great Bedwyn,0.06464,2648163.0,Bedwyn Railway Station,0.22115,6952025.0
+Bekyngton,,,,51.2642,-2.2857,EE_TBBW,223,,Dwelling-house of Bekyngton rectory,Beckington,0.10967,2656055.0,,,,,,
+Bristol,,,,51.450283,-2.584094,EE_TBBW,225,Gloucestershire,An upper chamber wherein the bishop was lodging in the house of the Augustinian Friars,Bristol,1.03195,2654675.0,,,,,,
+Bristol Bridge,,,,51.4536,-2.5913,EE_TBBW,226,,"on the bridge of Avon, Bristol (?) (145)",,,,Bristol,0.41381,2654675.0,Ibis Bristol Centre,0.01312,6519260.0
+Brusshford,,,,51.0208,-3.5419,EE_TBBW,227,Somerset,Brusshford parish church,Brushford,0.24293,2654455.0,,,,,,
+Bruton,,,,51.1044,-2.45843,EE_TBBW,228,Somerset,,,,,Pitcombe,0.73582,3345412.0,Bruton Railway Station,1.12471,6952168.0
+Bury St. Edmunds,,,,52.243086,0.70826,EE_TBBW,231,Suffolk,In the parliament held in the monastery there,,,,Bury St,0.40722,2654186.0,Bury St Edmunds,0.00257,6287776.0
+Chapter House of Bath,,,,51.2101,-2.6463900000000002,EE_TBBW,232,Somerset,used wells cathedral location,,,,Wells,0.29996,2634569.0,Best Western Swan,0.04071,9258109.0
+Chierd,,,,50.867487,-2.9676810000000002,EE_TBBW,233,Somerset,Chard?,Chard,0.59219,2653346.0,,,,,,
+Chiew,,,,51.336101,-2.59729,EE_TBBW,234,Somerset,,,,,Bishop Sutton,0.25689,3345404.0,Cameley Lodge,3.42365,10297442.0
+Chiew Manor,,,,51.3653,-2.6069,EE_TBBW,238,Somerset,Manor of Chiew,Chew Magna,0.25196,2653197.0,,,,,,
+Dogmersfield,,,,51.261833,-0.8835049999999999,EE_TBBW,239,Hampshire,p. 8,,,,Pilcot,1.76489,2640296.0,Four Seasons Hampshire,0.98231,6529431.0
+Dogmersfield Manor,,,,51.258340000000004,-0.8960600000000001,EE_TBBW,379,Hampshire,Dogmersfeld manor,,,,Pilcot,2.25207,2640296.0,Four Seasons Hampshire,0.5586,6529431.0
+Evercreech,,,,51.1445,-2.5068,EE_TBBW,400,Somerset,p. 9,Evercreech,0.40504,2649842.0,,,,,,
+Frome,,,,51.221727,-2.330722,EE_TBBW,412,Somerset,,Frome,0.95076,2649024.0,,,,,,
+Glastonbury monastery,,,,51.148065,-2.716199,EE_TBBW,415,Somerset,The chamber in Glastonbury monastery commonly called the Bishop's Chamber,,,,Glastonbury,0.32572,2648559.0,Glastonbury Abbey,0.24632,7627243.0
+Haytesbury,,,,51.183,-2.109,EE_TBBW,416,,In the diocese of Salisbury,Heytesbury,0.16615,2646998.0,,,,,,
+Ilchester,,,,50.995382,-2.685346,EE_TBBW,417,Somerset,,Ilchester,1.22989,2646279.0,,,,,,
+Keynesham monastery,,,,51.41792,-2.496108,EE_TBBW,418,Somerset,,,,,Keynsham,0.46517,2645733.0,Keynsham Railway Station,0.04004,6952908.0
+Lamehith,,,,51.493508,-0.117842,EE_TBBW,419,London,,,,,Prince's,0.42455,12047939.0,Novotel London Waterloo,0.14356,6943766.0
+London,,,,51.512747,-0.11358299999999999,EE_TBBW,420,London,,,,,Fleet Street,0.27191,11552741.0,St Clement Danes,0.04464,12047343.0
+London Bishop Ely Inn,,,,51.518679999999996,-0.10725,EE_TBBW,447,London,Inns of the said bishops at London,,,,Farringdon,0.23583,6690573.0,Bi Wines & Spirits,0.03644,11777552.0
+London Bishop Salisbury Manor Fletestreet,,,,51.51362,-0.1061,EE_TBBW,224,,,,,,Castle Baynard,0.13824,12048363.0,St Bride's,0.03049,6619876.0
+London Bishops Inn,,,,51.51213,-0.11450999999999999,EE_TBBW,448,London,Bishop's inn at London,,,,Fleet Street,0.36329,11552741.0,Arundel House,0.09527,8351456.0
+Lygeard parish church,,,,51.054323,-3.185591,EE_TBBW,600,Somerset,,,,,Bishops Lydeard,0.56025,2655564.0,Bishops Lydeard Railway Station,0.59385,6955210.0
+Muchelney Monastery,,,,51.021293,-2.816678,EE_TBBW,601,Somerset,,,,,Muchelney,0.36787,2642058.0,Muchelney,0.36787,2642058.0
+Norton St. Philp,,,,51.298,-2.322,EE_TBBW,603,,,Norton St Philip,0.50665,2641183.0,,,,,,
+Parish Church of St. Mary Magdelen in Taunton,,,,51.0163,-3.1001,EE_TBBW,604,,Saturday of the four seasons,,,,Taunton,0.2501,2636177.0,Castle,0.26784,6467937.0
+Reading,,,,51.451541999999996,-0.979625,EE_TBBW,606,Berkshire,Bishop's inn at Reading,Reading,0.7895,2639577.0,,,,,,
+Salesburye,,,,51.069163,-1.801569,EE_TBBW,610,Wiltshire,Inn of the bishop's residence,Salisbury,0.41275,2638664.0,,,,,,
+Stebenbeth,,,,51.5152,-0.0462,EE_TBBW,611,,Stebenbeth manor,,,,St. Dunstan's and Stepney Green,0.27875,12048433.0,Marlin Apartments City Docklands,0.30736,9951952.0
+Sutton,,,,51.641999999999996,-1.276,EE_TBBW,612,,Bishop's inn at Sutton,,,,Sutton Courtenay,0.09632,2636485.0,Drayton,1.94953,7669080.0
+Taunton priory,,,,51.018083000000004,-3.098198,EE_TBBW,613,Somerset,,,,,Taunton,0.48264,2636177.0,Taunton Castle,0.47916,6287084.0
+Thurloxton,,,,51.068999999999996,-3.036,EE_TBBW,615,Somerset,Church of Thurlacston by the Prior and convent of Taunton,Thurloxton,0.14824,2635892.0,,,,,,
+Warmynstre,,,,51.204060999999996,-2.187459,EE_TBBW,616,Wiltshire,Bishop's inn at Warmynstre,Warminster,0.61097,2634755.0,,,,,,
+Wells,,,,51.20235,-2.6597880000000003,EE_TBBW,618,Somerset,,Wells,0.97954,2634569.0,,,,,,
+Wells Chapel,,,,51.2101,-2.6463900000000002,EE_TBBW,620,Somerset,Chapel made by him immediately adjoining the presbytery in Wells cathedral,,,,Wells,0.29996,2634569.0,Best Western Swan,0.04071,9258109.0
+Wells Palace,,,,51.20932,-2.64373,EE_TBBW,630,Somerset,,,,,Wells,0.39638,2634569.0,Wells Cathedral,0.11589,7522491.0
+Westminster,,,,51.495233,-0.143119,EE_TBBW,1058,Middlesex,,,,,Victoria,0.12849,6690579.0,Apollo Victoria Theatre,0.05276,6690326.0
+Winchester,,,,51.058341999999996,-1.3164770000000001,EE_TBBW,1060,Hampshire,,Winchester,0.77146,2633858.0,,,,,,
+Winchester College of St. Mary,,,,51.05834,-1.31259,EE_TBBW,1063,Hampshire,College of St. Mary by Winchester,,,,Winchester,0.86878,2633858.0,Wolvesey Castle,0.21675,6286732.0
+Woky,,,,51.2021,-2.7027240000000003,EE_TBBW,1064,Somerset,p. 10,Wookey,1.11981,2633610.0,,,,,,
+Woky Chapel,,,,51.2093,-2.6906,EE_TBBW,1307,Somerset,Woky chapel,,,,Wookey,0.12398,2633610.0,Wookey Hole Hotel,2.38573,10238364.0
+Woky Manor,,,,51.20854,-2.69132,EE_TBBW,1308,Somerset,Principal chamber in Woky manor,,,,Wookey,0.14591,2633610.0,Fenny Castle,2.4356,6285931.0
+Wolvesey palace,,,,51.059061,-1.310023,EE_TBBW,1339,Hampshire,,,,,Winchester,0.90917,2633858.0,Wolvesey Castle,0.0199,6286732.0
+Wykeham Manor,,,,50.9,-1.19,EE_TBBW,1340,,Wykham manor,,,,Wickham,0.15472,2633975.0,Ravenswood House,2.22998,6288749.0
+Wyvelescombe,,,,51.03497,-3.313457,EE_TBBW,1343,Somerset,,Wiveliscombe,0.71568,2633720.0,,,,,,
+Wyvelescombe Manor,,,,51.0406,-3.30904,EE_TBBW,1353,Somerset,Principal chamber of the manor of Wyvelescombe,,,,Wiveliscombe,0.27645,2633720.0,Wiveliscombe,0.27645,2633720.0
