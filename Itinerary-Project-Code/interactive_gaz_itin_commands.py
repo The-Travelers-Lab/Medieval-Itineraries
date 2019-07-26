@@ -55,6 +55,7 @@ Command_Dict = {'process a gazetteer': 'run_gaz',
                     'attribute list to lookup': 'attribute_list',
                     'format dates in single column': 'form_dates',
                     'output itinerary as gazetteer': 'itin_to_gaz',
+                    'include the above itinerary code': 'add_code',
                     'gazetteer output filename': 'gaz_file_out',
                     'output itinerary as trips frame': 'itin_to_trips',
                     'keep all date columns in trips': 'keep_dates',
@@ -205,7 +206,11 @@ def itin_functions(choice_dict):
     if choice_dict['form_dates'] == True:
         main_itin.format_dates()
     if choice_dict['itin_to_gaz'] == True:
-        itin_gaz_df = main_itin.itin_to_gaz()
+        if choice_dict['add_code'] == True:
+            itin_gaz_df = main_itin.itin_to_gaz(add_code=True, 
+                                            itin_code=choice_dict['itin_code'])
+        else:
+            itin_gaz_df = main_itin.itin_to_gaz()
         output_path = get_current_path(choice_dict['gaz_file_out'])
         itin_gaz_df.to_csv(output_path, index=False)
     if choice_dict['itin_to_trips'] == True:
