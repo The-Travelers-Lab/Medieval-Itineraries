@@ -1,5 +1,5 @@
 modern_name,modern_country,checked,certainty,latitude,longitude,itin_code,County,Notes,name_match,geo_dist,geo_id,guess1,g_dist1,geo_id_guess1,guess2,g_dist2,geo_id_guess2
-Alverton,,,,50.118482,-5.548953,EE_JGEx, , ,,,,Penzance,0.8441,2640377.0,West Cornwall Hospital,0.54975,6288595.0
+Alverton,,,,50.118482,-5.548953,EE_JGEx, , ,,,GNA***,Penzance,0.8441,2640377.0,West Cornwall Hospital,0.54975,6288595.0
 Asperton,,,,52.07,-2.52,EE_JGEx,Herefordshire, ,Ashperton,0.30784,2656928.0,,,,,,
 Avignon France,France,,,43.949317,4.805528,EE_JGEx, , ,,,,Avignon,0.29333,3035681.0,Hotel de I'Horloge,0.04639,6471174.0
 Axminster,,,,50.777215000000005,-3.008367,EE_JGEx,Devon, ,Axminster,0.95173,2656725.0,,,,,,
