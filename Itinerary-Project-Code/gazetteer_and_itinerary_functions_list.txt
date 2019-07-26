@@ -28,6 +28,7 @@ lookup gazetteer filename: <filename>
 attribute list to lookup: <item,item>
 format dates in single column: <yes or no>
 output itinerary as gazetteer: <yes or no>
+include the above itinerary code: <yes or no>
 gazetteer output filename: <filename>
 output itinerary as trips frame: <yes or no>
 keep all date columns in trips: <yes or no>
