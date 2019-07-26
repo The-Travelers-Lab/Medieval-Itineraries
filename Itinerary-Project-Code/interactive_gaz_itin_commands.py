@@ -187,6 +187,10 @@ def itin_functions(choice_dict):
     itin_path = get_current_path(choice_dict['itin_file'])
     main_itin = Itinerary(itin_path,
                           latlong=choice_dict['lat_long'])
+    if not main_itin.no_flag:
+        for i in main_itin.error_checks: print(i)
+        print('The operations have failed.')
+        return None
     if (choice_dict['fuzz_match'] == True or
         choice_dict['atr_lookup'] == True):
         ref_gaz_path = get_current_path(choice_dict['itin_gaz_file'])
