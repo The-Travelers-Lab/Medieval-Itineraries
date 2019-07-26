@@ -286,11 +286,14 @@ class Itinerary:
         gaz_df.sort_values('modern_name', inplace=True)
         cols1 = ['modern_name','modern_country', 'checked', 
                  'certainty', 'latitude', 'longitude']
+        if add_code: cols1 + ['itin_code']
         drop_col = ['modern_name']
         if self.latlong: drop_col += ['latitude', 'longitude']
         columns = cols1 + gaz_df.columns.drop(drop_col).tolist()
         gaz_df = pd.DataFrame(gaz_df, columns=columns)
         if 'dates' in columns: gaz_df.drop(columns='dates', inplace=True)
+        if add_code:
+            self.itin_df.loc[:,'itin_code'] = itin_code
         return gaz_df
 
     def itin_to_trips(self, date_style='full_date'):
