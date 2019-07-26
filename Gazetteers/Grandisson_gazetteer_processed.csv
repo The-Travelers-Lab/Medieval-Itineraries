@@ -1,0 +1,140 @@
+modern_name,modern_country,checked,certainty,latitude,longitude,itin_code,County,Notes,name_match,geo_dist,geo_id,guess1,g_dist1,geo_id_guess1,guess2,g_dist2,geo_id_guess2
+Alverton,,,,50.118482,-5.548953,EE_JGEx, , ,,,,Penzance,0.8441,2640377.0,West Cornwall Hospital,0.54975,6288595.0
+Asperton,,,,52.07,-2.52,EE_JGEx,Herefordshire, ,Ashperton,0.30784,2656928.0,,,,,,
+Avignon France,France,,,43.949317,4.805528,EE_JGEx, , ,,,,Avignon,0.29333,3035681.0,Hotel de I'Horloge,0.04639,6471174.0
+Axminster,,,,50.777215000000005,-3.008367,EE_JGEx,Devon, ,Axminster,0.95173,2656725.0,,,,,,
+Bampton,,,,51.724869,-1.5525959999999999,EE_JGEx,Oxfordshire, ,Bampton,0.51894,2656421.0,,,,,,
+Banbury,,,,52.056563,-1.345107,EE_JGEx,Oxfordshire, ,Banbury,0.76457,2656406.0,,,,,,
+Beaumont-sur-Oise France,France,,,49.141551,2.284601,EE_JGEx, , ,Beaumont-sur-Oise,0.19785,3034141.0,,,,,,
+Bermondsey,,,,51.494307,-0.08553200000000001,EE_JGEx,Surrey,,,,,Chaucer,0.54549,12048096.0,Hotel The Bermondsey Square,0.45869,10243043.0
+Bideford,,,,51.012166,-4.225192,EE_JGEx,Devon, ,,,,Handy Cross,0.37038,9538975.0,Durrant House Hotel,0.22521,10296285.0
+Bishop's Clyst,,,,50.709453,-3.4538300000000004,EE_JGEx, ,,,,,Clyst St Mary,0.32578,2652717.0,Bishops Court,0.84684,2655569.0
+Bishop's Tawton,,,,51.051244,-4.055843,EE_JGEx,Devon,,Bishops Tawton,0.43246,2655559.0,,,,,,
+Bishopsnympton,,,,50.999503999999995,-3.771378,EE_JGEx, , ,Bishops Nympton,0.3353,2655563.0,,,,,,
+Blackawton,,,,50.337666,-3.687596,EE_JGEx,Devon, ,Blackawton,1.19057,2655528.0,,,,,,
+Blyth,,,,55.126957,-1.510277,EE_JGEx,Yorkshire, ,Blyth,0.11035,2655315.0,,,,,,
+Bodmin Priory,,,,50.470646,-4.735214,EE_JGEx,Cornwall, ,,,,Bodmin,0.78089,2655273.0,Bodmin General Railway Station,1.43867,6955263.0
+Bosham,,,,50.830018,-0.8654370000000001,EE_JGEx,Sussex, ,Bosham,0.82238,2655143.0,,,,,,
+Bradenstoke,,,,51.509928,-2.0013919999999996,EE_JGEx,Wiltshire, ,,,,Clack,1.67101,2652977.0,Lyneham Clack Mount,0.36096,6286314.0
+Bradninch,,,,50.817709,-3.435115,EE_JGEx,Devon, ,,,,Hele,0.17091,2647180.0,Bradninch Castle Hill,1.57996,6287400.0
+Bristol,,,,51.47254,-2.577293,EE_JGEx,Gloucestershire, ,,,,Easton,1.2112,12047505.0,Montpelier Railway Station,0.91674,6953161.0
+Buckfast Abbey,,,,50.489005999999996,-3.791667,EE_JGEx,Devon,,,,,Buckfastleigh,1.23399,2654416.0,Buckfast Abbey,1.20284,11549208.0
+Buckland Abbey,,,,50.271952,-3.867707,EE_JGEx,Devon, ,,,,Thurlestone,0.46513,2635894.0,Thurlestone,1.02111,6290154.0
+Buckland-Monachorum,,,,50.492036,-4.144257,EE_JGEx,Devon, ,Buckland Monachorum,1.01933,2654399.0,,,,,,
+Canonsleigh Abbey,,,,50.941158,-3.3194480000000004,EE_JGEx, , ,,,,Burlescombe,0.17076,2654288.0,Tiverton Parkway Railway Station,3.92416,6953735.0
+Canterbury,,,,51.27195,1.066565,EE_JGEx,Kent, ,,,,Thanington,0.74936,8063682.0,Canterbury East Railway Station,0.68312,6945273.0
+Chardstock,,,,50.835796,-2.980691,EE_JGEx, , ,Chardstock,0.09409,2653344.0,,,,,,
+Chateau Thierry France,France,,,49.045987,3.4026199999999998,EE_JGEx, , ,Château-Thierry,0.05197,3026194.0,,,,,,
+Chidham,,,,50.821164,-0.879849,EE_JGEx,Sussex, ,,,,Itchenor,1.95663,2634383.0,Thorney Island,2.72657,11711624.0
+Chudleigh,,,,50.599555,-3.612164,EE_JGEx,Devon, ,Chudleigh,1.03258,2653056.0,,,,,,
+Clyst,,,,50.727636,-3.446529,EE_JGEx,Devon,,,,,Clyst Honiton,0.95695,2652720.0,Bishops Court,1.24463,2655569.0
+Colcombe,,,,50.731625,-3.078235,EE_JGEx,Devon, ,,,,Colyford,0.9981,2652512.0,Colyford Station,1.46789,7671133.0
+Combe-in-Teignhead,,,,50.528406,-3.5533,EE_JGEx,Devon, ,Stokeinteignhead,1.68328,2636848.0,,,,,,
+Cornwood,,,,50.414139,-3.971825,EE_JGEx,Devon, ,Cornwood,0.77085,2652352.0,,,,,,
+Cotyngbeke,,,,50.397,-4.309,EE_JGEx, ,used st. german's priory instead,,,,Saint Germans,0.4314,2638792.0,St Germans Railway Station,0.30082,6953478.0
+Cowick Priory,,,,50.720828000000004,-3.5415620000000003,EE_JGEx,"Yorkshire, West Riding", ,,,,St. Thomas,0.52311,6691883.0,Buckrell Lodge,0.36297,10296293.0
+Crediton,,,,50.787728,-3.6611910000000005,EE_JGEx,Devon, ,Crediton,0.92837,2652034.0,,,,,,
+Diptford,,,,50.389913,-3.801997,EE_JGEx,Devon, ,,,,North Huish,0.96814,2641333.0,Langford Barton,2.12378,6285816.0
+Dittisham,,,,50.374817,-3.604532,EE_JGEx,Devon, ,Dittisham,1.04075,2651206.0,,,,,,
+Donyatt,,,,50.921551,-2.954575,EE_JGEx,Somerset, ,Donyatt,0.8803,2651111.0,,,,,,
+Dover,,,,51.121687,1.299576,EE_JGEx,Kent, ,,,,Maxton,0.66739,11550761.0,Dover Priory Railway Station,0.59708,6945262.0
+East Allington,,,,50.318858,-3.743119,EE_JGEx,Devon, ,,,,Woodleigh,1.06261,2633635.0,Buckland Tout Saints,1.9508,9258193.0
+East Camel,,,,51.022,-2.6019,EE_JGEx,Somerset, ,West Camel,0.25222,6693235.0,,,,,,
+East Horseley,,,,51.262114000000004,-0.43284399999999995,EE_JGEx, ,,East Horsley Village,0.1636,10377319.0,,,,,,
+East Stoke,,,,53.033033999999994,-0.8830479999999999,EE_JGEx,Nottinghamshire, ,East Stoke,0.03842,2650333.0,,,,,,
+Eaton-Bishop's,,,,52.03756,-2.817804,EE_JGEx,Herefordshire, ,Eaton Bishop,0.95893,2650296.0,,,,,,
+Exeter,,,,50.717560999999996,-3.531214,EE_JGEx,Devon, ,,,,St. Thomas,0.63175,6691883.0,Abode Exeter The Royal Clarence,0.23079,10296297.0
+Exminster,,,,50.672982,-3.501458,EE_JGEx,Devon, ,Exminster,0.91874,2649803.0,,,,,,
+Faringdon,,,,51.11438,-0.98477,EE_JGEx, , ,Upper Farringdon,0.55167,2635129.0,,,,,,
+Farnham,,,,51.207042,-0.7989390000000001,EE_JGEx,Surrey, ,Farnham,0.83061,2649660.0,,,,,,
+Forde Abbey,,,,50.837223,-2.912196,EE_JGEx, , ,,,,Thorncombe,2.12932,2635999.0,Forde Abbey,0.60842,9253765.0
+Fowey,,,,50.328865,-4.642749,EE_JGEx,Cornwall, ,,,,Polruan,0.83466,2640151.0,St Catherine's Castle,0.15101,6285809.0
+Gittisham,,,,50.775032,-3.235245,EE_JGEx,Devon, ,Gittisham,0.59853,2648619.0,,,,,,
+Glasney Gollege,,,,50.164373,-5.109795,EE_JGEx,Cornwall, ,,,,Penryn,0.57983,2640413.0,Penryn Railway Station,0.7258,6953327.0
+Glynn,,,,50.470646,-4.735214,EE_JGEx,Cornwall, ,,,,Bodmin,0.78089,2655273.0,Bodmin General Railway Station,1.43867,6955263.0
+Haccombe,,,,50.519228000000005,-3.567105,EE_JGEx,Devon, ,,,,Coffinswell,1.55405,2652645.0,Newton Abbot Railway Station,2.59221,6953232.0
+Hartland Abbey,,,,50.996666999999995,-4.508611,EE_JGEx,Devon, ,,,,Blagberry,0.67623,2655408.0,West Titchberry Farm,2.15892,9951813.0
+Hayford,,,,52.227221,-1.030054,EE_JGEx, , ,,,,Nether Heyford,0.73336,6692751.0,Holiday Inn Northampton West M1 Jct 16,1.41066,9951687.0
+Helbeton,,,,50.335414,-3.949286,EE_JGEx,Devon, ,Holbeton,0.00545,2646782.0,,,,,,
+Hemyock,,,,50.909888,-3.238812,EE_JGEx,Devon, ,Hemyock,0.80344,2647119.0,,,,,,
+Hereford,,,,52.047214000000004,-2.715908,EE_JGEx,Herefordshire, ,Hereford,1.07377,2647074.0,,,,,,
+Honiton,,,,50.802717,-4.357153,EE_JGEx,Devon, ,,,,Holsworthy,1.05437,2646704.0,Holsworthy Hospital,1.81963,6288645.0
+Horseley,,,,51.265743,-0.439067,EE_JGEx, , ,,,,East Horsley Village,0.46658,10377319.0,Ramada Guildford / Leatherhead,0.74726,6466744.0
+Itcheustoke,,,,51.0881,-1.2026,EE_JGEx,Hants, ,,,,Ovington,0.7175,2640754.0,Alresford Sidings,2.61337,6955188.0
+Kilkhampton,,,,50.871939000000005,-4.488573000000001,EE_JGEx,Cornwall, ,Kilkhampton,0.52792,2645655.0,,,,,,
+Kingston-on-Thames,,,,51.416746,-0.304498,EE_JGEx,Surrey, ,Kingston upon Thames,0.67625,6690829.0,,,,,,
+Lambeth,,,,51.486018,-0.12909,EE_JGEx,Surrey, ,,,,Tachbrook,0.41849,12048401.0,Dreamhouse Apartments London Vauxhall,0.17222,9258447.0
+Lambourne,,,,51.500038,-1.540394,EE_JGEx,Berkshire, ,Lambourn,1.10242,2644993.0,,,,,,
+Lanner,,,,50.206606,-5.21066,EE_JGEx,Cornwall, ,,,,Carnbrea,1.96766,2653725.0,"Lanner Hill Mediumwave Transmitter, Mast West",1.26208,7645876.0
+Lanteglos-by-Camelford,,,,50.606048,-4.714794,EE_JGEx,Cornwall, ,,,,Lanteglos,1.24481,2644880.0,Lanteglos Country House Hotel,1.00955,9951445.0
+Launceston,,,,50.640134,-4.358558,EE_JGEx, , ,Launceston,0.36606,2644811.0,,,,,,
+Launceston Priory,,,,50.636425,-4.355307,EE_JGEx, , ,Launceston,0.34233,2644811.0,,,,,,
+Lawhitton,,,,50.614314,-4.333582,EE_JGEx,Cornwall, ,Lawhitton,0.65529,2644790.0,,,,,,
+Lezant,,,,50.586788,-4.360476,EE_JGEx,Cornwall, ,Lezant,0.84942,2644541.0,,,,,,
+London,,,,51.512747,-0.11358299999999999,EE_JGEx,Middlesex, ,,,,Fleet Street,0.27191,11552741.0,St Clement Danes,0.04464,12047343.0
+Luppit,,,,50.847398999999996,-3.194541,EE_JGEx,Devon, ,Luppitt,1.11063,2643364.0,,,,,,
+Lutterworth,,,,52.451297,-1.2068370000000002,EE_JGEx,Leicestershire, ,Lutterworth,0.64465,2643337.0,,,,,,
+Lyons France,,,,45.764043,4.835659,EE_JGEx, , ,,,,Bellecour Cordeliers,0.27229,12047741.0,Grand Hotel De La Paix,0.1341,9176670.0
+Meavy,,,,50.484576000000004,-4.059337,EE_JGEx,Devon, ,Meavy,0.16279,2642839.0,,,,,,
+Menhenyot,,,,50.441309000000004,-4.410956,EE_JGEx, , ,Menheniot,0.15568,2642749.0,,,,,,
+Modbury,,,,50.343404,-3.898619,EE_JGEx,Devon, ,Modbury,1.08295,2642395.0,,,,,,
+Montmirail France,,,,48.870165,3.535925,EE_JGEx, , ,Montmirail,0.26611,2992240.0,,,,,,
+Montreuil-sur-Mer France,France,,,50.46816,1.7682689999999999,EE_JGEx, , ,Montreuil-sur-Mer,0.59774,2992061.0,,,,,,
+Morchard-Bishop,,,,50.84919,-3.7628169999999996,EE_JGEx,Devon, ,Morchard Bishop,1.12315,2642237.0,,,,,,
+Moreleigh,,,,50.354815,-3.744436,EE_JGEx,Devon, ,Moreleigh,1.00943,2642209.0,,,,,,
+Morton,,,,50.828,-4.465,EE_JGEx, , ,,,,Pancrasweek,3.15622,2640660.0,Eastleigh Berrys,2.15495,6287368.0
+North Huish,,,,50.389694,-3.816057,EE_JGEx,Devon, ,North Huish,0.56311,2641333.0,,,,,,
+Northill,,,,50.563,-4.441,EE_JGEx, , ,North Hill,1.54481,2641337.0,,,,,,
+Norton-St. Philip's,,,,51.293659999999996,-2.331239,EE_JGEx,Somerset, ,Norton St Philip,1.05546,2641183.0,,,,,,
+Oseney Abbey,,,,51.750471000000005,-1.277112,EE_JGEx,Oxfordshire, ,,,,North Hinksey,1.02943,2641336.0,Oxford Railway Station,0.57227,6953285.0
+Otterton Priory,,,,50.657385,-3.302893,EE_JGEx,Devon, ,,,,Otterton,0.46108,2640837.0,The Long Range Hotel,2.77979,10238985.0
+Ottery St. Mary,,,,50.747602,-3.277047,EE_JGEx,Devon, ,Ottery St Mary,0.77966,2640834.0,,,,,,
+Oxenhall,,,,51.93175,-2.4231849999999997,EE_JGEx,Gloucestershire,near Gloucester,,,,Newent,1.05551,2641651.0,Boulsdon Manor,1.39975,6287706.0
+Oxford,,,,51.750381,-1.262627,EE_JGEx,Oxfordshire, ,Oxford,0.50384,2640729.0,,,,,,
+Paignton,,,,50.429331,-3.564135,EE_JGEx,Devon, ,Paignton,0.75163,2640681.0,,,,,,
+Paris France,,,,48.856614,2.3522220000000003,EE_JGEx, , ,,,,Paris 09 Ancien - Quartier Hôtel-de-Ville,0.21992,9843563.0,The Hôtel de Ville,0.02511,6947013.0
+Paul,,,,50.088689,-5.5523430000000005,EE_JGEx,Cornwall, ,Paul,0.42927,2640563.0,,,,,,
+Penryn,,,,50.164373,-5.109795,EE_JGEx,Cornwall, ,Penryn,0.57983,2640413.0,,,,,,
+Petrisheghes,,,,50.85027,-3.0746700000000002,EE_JGEx, , ,,,,Stockland,1.5015,2636886.0,Barn Park Farm,2.8353,9951485.0
+Plymouth,,,,50.365961,-4.152629,EE_JGEx,Devon, ,,,,Barbican,0.86978,10295323.0,Trinity Pier,0.20605,11610290.0
+Plympton,,,,50.385466,-4.069107,EE_JGEx,Devon, ,Plympton,0.86203,2640192.0,,,,,,
+Poutone,,,,50.385466,-4.069107,EE_JGEx,Devon, ,,,,Plympton,0.86203,2640192.0,Plympton Hospital,0.51654,6288615.0
+Salisbury,,,,51.069163,-1.801569,EE_JGEx,Wiltshire, ,Salisbury,0.41275,2638664.0,,,,,,
+Sandwich,,,,51.273481,1.339128,EE_JGEx,Kent, ,Sandwich,0.16926,2638542.0,,,,,,
+Shaftesbury,,,,50.99722,-2.200873,EE_JGEx,Dorset, ,Shaftesbury,1.041,2638157.0,,,,,,
+Sherborne,,,,50.942245,-2.5279990000000003,EE_JGEx,Dorset, ,Sherborne,0.83152,2638033.0,,,,,,
+Southill,,,,50.528999999999996,-4.3580000000000005,EE_JGEx,Cornwall, ,South Hill,0.74438,2637404.0,,,,,,
+St. Buryan,,,,50.068143,-5.634688,EE_JGEx,Cornwall, ,St. Buryan,1.11148,6621656.0,,,,,,
+St. Colan,,,,50.443284000000006,-5.0098400000000005,EE_JGEx, , ,,,,Saint Mawgan,2.02556,2638727.0,Cornwall Aviation Heritage Centre,0.44727,11821553.0
+St. Esprit,,,,50.412833,-5.001806,EE_JGEx, , ,,,,Quintrell Downs,2.16047,11593371.0,Treloy Golf Club,1.77005,11821554.0
+St. Gulval,,,,50.132127000000004,-5.528703,EE_JGEx, , ,Gulval,0.54326,2647768.0,,,,,,
+St. Gwennap,,,,50.243266999999996,-5.180655000000001,EE_JGEx, , ,,,,Tolgullow,0.32476,6269408.0,Redruth Railway Station,3.42463,6953423.0
+St. Ive,,,,50.478101,-4.397342,EE_JGEx,Cornwall,near Liskeard,,,,Middlehill,0.61184,2642614.0,Liskeard Community Hospital,4.32987,6288606.0
+St. Just-in-Penwith,,,,50.124102,-5.680814,EE_JGEx, , ,,,,St Just,0.03663,11001762.0,Wellington,0.07431,9951703.0
+St. Ludgvan,,,,50.042260999999996,-5.660073000000001,EE_JGEx, , ,,,,Saint Levan,0.00024,2638754.0,Saint Levan,0.00024,2638754.0
+St. Macaire,,,,44.565289,-0.226334,EE_JGEx, , ,Saint-Macaire,0.16097,2978660.0,,,,,,
+St. Madron,,,,50.131614,-5.564886,EE_JGEx, , ,Madron,0.1163,2643228.0,,,,,,
+St. Michael's Mount,,,,50.118099,-5.47565,EE_JGEx, , ,,,,Marazion,0.8308,2643076.0,St Michaels Mount Castle,0.25637,6285801.0
+St. Probus,,,,50.2927,-4.951158,EE_JGEx, , ,Probus,0.20306,2639880.0,,,,,,
+St. Veep,,,,50.365119,-4.6307,EE_JGEx,Cornwall, ,,,,Golant,0.86984,2638699.0,Fowey & District Hospital,3.02287,6288605.0
+Steventon,,,,51.615955,-1.3370229999999999,EE_JGEx,Berkshire, ,Steventon,1.4549,2636936.0,,,,,,
+Stoke-Climsland,,,,50.542711,-4.315930000000001,EE_JGEx,Cornwall, ,Stoke Climsland,0.51794,2636861.0,,,,,,
+Stoke-in-Teiguhead,,,,50.519604,-3.538904,EE_JGEx,Devon, ,Stokeinteignhead,0.79525,2636848.0,,,,,,
+Tavistock,,,,50.545956,-4.146701999999999,EE_JGEx,Devon, ,Tavistock,0.42666,2636174.0,,,,,,
+Tavistock Abbey,,,,50.5494,-4.145,EE_JGEx,Devon,,Tavistock,0.05838,2636174.0,,,,,,
+Tawstock,,,,51.042006,-4.069699,EE_JGEx,Devon, ,Tawstock,0.97639,2636169.0,,,,,,
+Torrington,,,,50.9506,-4.151061,EE_JGEx,Devon, ,Great Torrington,0.56724,2648004.0,,,,,,
+Totnes,,,,50.427558000000005,-3.6907900000000002,EE_JGEx,Devon, ,Totnes,0.60453,2635610.0,,,,,,
+Trenowth,,,,50.321059999999996,-4.905787999999999,EE_JGEx, , ,,,,Coombe,2.15083,10103987.0,Coombe,2.15083,10103987.0
+Turo,,,,50.255664,-5.059615,EE_JGEx,Cornwall, ,Truro,1.13086,2635412.0,,,,,,
+Tywardreath,,,,50.354525,-4.700412,EE_JGEx,Cornwall, ,,,,Par,0.42256,2640623.0,Par Railway Station,0.31908,6953296.0
+Ugborough,,,,50.379814,-3.8719419999999998,EE_JGEx,Devon, ,Ugborough,1.08473,2635226.0,,,,,,
+Upton-Pyne,,,,50.762321,-3.5468550000000003,EE_JGEx,Devon, ,Upton Pyne,0.53195,2635083.0,,,,,,
+Walemore,,,,51.833476,-2.370743,EE_JGEx, , ,,,,Grange Court,2.02072,10377359.0,Grange Court,2.02072,10377359.0
+Wells,,,,51.20235,-2.6597880000000003,EE_JGEx,Somerset, ,Wells,0.97954,2634569.0,,,,,,
+Widworthy,,,,50.785169,-3.122025,EE_JGEx,Devon, ,Widworthy,0.8249,2633951.0,,,,,,
+Winchester,,,,51.058341999999996,-1.3164770000000001,EE_JGEx,Hampshire, ,Winchester,0.77146,2633858.0,,,,,,
+Winkleigh,,,,50.855242,-3.94775,EE_JGEx,Devon, ,Winkleigh,0.34033,2633818.0,,,,,,
+Wissant France,France,,,50.885777000000004,1.6624740000000002,EE_JGEx, , ,,,,Wissant,0.05433,2967326.0,Bureau de Poste de Wissant,0.0666,8294873.0
+Yealmpton,,,,50.341515,-4.010978,EE_JGEx,Devon, ,Yealmpton,1.17047,2633394.0,,,,,,
+York,,,,53.951742,-1.10246,EE_JGEx,Yorkshire,,York,1.45247,2633352.0,,,,,,
